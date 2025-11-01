@@ -85,7 +85,7 @@ npx sequelize db:seed --seed archivo.js --seeders-path src/seeders --config src/
 Si has configurado Swagger, puedes acceder a la documentación de los endpoints:
 
 ```
-http://localhost:<PUERTO>/api-docs
+http://localhost:3000/api-docs
 ```
 
 Allí encontrarás todos los endpoints, parámetros y ejemplos de request/response.
