@@ -112,8 +112,10 @@ README.md
 
 ## Integrantes
 
+```
 Hugo Sanabria
 Gustavo Cano
 Carlos Navarro
 Jessie Martel
 David Morales
+```
