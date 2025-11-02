@@ -110,6 +110,10 @@ package.json
 README.md
 ```
 
-## Contribuciones
+## Integrantes
 
-Si quieres contribuir al proyecto, por favor abre un pull request o crea un issue para discutir los cambios.
+Hugo Sanabria
+Gustavo Cano
+Carlos Navarro
+Jessie Martel
+David Morales
