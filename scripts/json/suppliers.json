@@ -1,0 +1,212 @@
+[
+  {
+    "supplier_id": "SUP001",
+    "name": "Sources Alma Distribution",
+    "contact": "contact@sourcesalma-distribution.com",
+    "rating": 4.7,
+    "description": "Distribuidor europeo de aguas minerales como Cristaline y Oulmès."
+  },
+  {
+    "supplier_id": "SUP002",
+    "name": "Ferrero France Commerciale",
+    "contact": "ventas@ferrero-france-commerciale.com",
+    "rating": 4.6,
+    "description": "Distribuidor de confitería y cremas de cacao (Nutella, Kinder, Tic Tac)."
+  },
+  {
+    "supplier_id": "SUP003",
+    "name": "La Boulangère & Co Distribution",
+    "contact": "comercial@laboulangere-co.com",
+    "rating": 4.5,
+    "description": "Panadería industrial francesa: panes, brioches y bollería."
+  },
+  {
+    "supplier_id": "SUP004",
+    "name": "Barilla & Wasa Logistics",
+    "contact": "logistics@barilla-wasa.com",
+    "rating": 4.4,
+    "description": "Distribuidor de pasta italiana, pesto y productos Wasa crujientes."
+  },
+  {
+    "supplier_id": "SUP005",
+    "name": "Nestlé Waters Supply Europe",
+    "contact": "orders@nestle-waters-supply.com",
+    "rating": 4.6,
+    "description": "Distribuidor de aguas S.Pellegrino, Perrier y Nestlé Pure Life."
+  },
+  {
+    "supplier_id": "SUP006",
+    "name": "Nestlé France Food & Drinks",
+    "contact": "foodservice@nestle-france.com",
+    "rating": 4.5,
+    "description": "Alimentos y bebidas Nestlé como Nesquik, Maggi, Ricoré y Nestlé Dessert."
+  },
+  {
+    "supplier_id": "SUP007",
+    "name": "Danone Maghreb & Dairy Services",
+    "contact": "clientes@danone-maghreb.com",
+    "rating": 4.3,
+    "description": "Distribuidor regional de lácteos y aguas Danone (Ain Saïss, Jebli, Centrale)."
+  },
+  {
+    "supplier_id": "SUP008",
+    "name": "Ethiquable Fair Trade Foods",
+    "contact": "contact@ethiquable-distribution.com",
+    "rating": 4.4,
+    "description": "Distribuye productos de comercio justo: mantequilla de maní, cacao, cereales."
+  },
+  {
+    "supplier_id": "SUP009",
+    "name": "Menguy's Nut & Spread Distribution",
+    "contact": "sales@menguys-foods.com",
+    "rating": 4.2,
+    "description": "Cacahuetes tostados, cremas de maní y snacks saludables."
+  },
+  {
+    "supplier_id": "SUP010",
+    "name": "Léa Nature / Jardin Bio Service",
+    "contact": "service-client@leanature-bio.com",
+    "rating": 4.3,
+    "description": "Distribuye alimentos orgánicos de la marca Jardin Bio y Léa Nature."
+  },
+  {
+    "supplier_id": "SUP011",
+    "name": "Saint Hubert Plant-Based & Bio",
+    "contact": "info@sainthubert-bio.com",
+    "rating": 4.1,
+    "description": "Distribuye margarinas vegetales y productos sin lactosa Saint Hubert."
+  },
+  {
+    "supplier_id": "SUP012",
+    "name": "Atlas Maghreb Beverages & Snacks",
+    "contact": "ventas@atlas-maghreb.com",
+    "rating": 4.2,
+    "description": "Distribuidor inventado: bebidas, lácteos y snacks de marcas marroquíes como Sidi Ali, Star, Jaouda, Chergui y Bahia."
+  },
+  {
+    "supplier_id": "SUP013",
+    "name": "Global Snacks & Chips Import",
+    "contact": "contact@globalsnacks-import.com",
+    "rating": 4.0,
+    "description": "Importador de snacks internacionales (Pringles, Tyrrell’s, Kettle, Takis)."
+  },
+  {
+    "supplier_id": "SUP014",
+    "name": "Premium Chocolates & Biscuits Europe",
+    "contact": "orders@premium-choco-biscuits.eu",
+    "rating": 4.3,
+    "description": "Distribuye chocolates y galletas finas (Lindt, Milka, LU, BN, Poulain)."
+  },
+  {
+    "supplier_id": "SUP015",
+    "name": "Breakfast & Cereals International",
+    "contact": "support@breakfast-cereals-int.com",
+    "rating": 4.2,
+    "description": "Cereales y desayunos (Kellogg’s, Weetabix, Quaker, Jordans, Bjorg)."
+  },
+  {
+    "supplier_id": "SUP016",
+    "name": "PepsiCo North Africa Distribution",
+    "contact": "info@pepsico-maghreb.com",
+    "rating": 4.5,
+    "description": "Distribuye Aquafina, Pepsi, Quaker y Hawai Tropical."
+  },
+  {
+    "supplier_id": "SUP017",
+    "name": "Coca-Cola Export Company Morocco",
+    "contact": "export@cocacola-ma.com",
+    "rating": 4.6,
+    "description": "Distribuye Coca-Cola, Ciel y Hawai Tropical en la región del Magreb."
+  },
+  {
+    "supplier_id": "SUP018",
+    "name": "Heinz Foods Morocco",
+    "contact": "contact@heinzfoods.ma",
+    "rating": 4.3,
+    "description": "Distribuidor de salsas Heinz (ketchup, mayonesa, mostaza)."
+  },
+  {
+    "supplier_id": "SUP019",
+    "name": "Unilever Maghreb & Africa Foods",
+    "contact": "contact@unilever-africa.com",
+    "rating": 4.4,
+    "description": "Distribuye productos Unilever como Hellmann’s, Knorr, Maille y Lipton."
+  },
+  {
+    "supplier_id": "SUP020",
+    "name": "Andros Fruit & Confiture Group",
+    "contact": "sales@andros-confiture.com",
+    "rating": 4.5,
+    "description": "Confituras y cremas de frutas (Andros, Délicia, El Baraka)."
+  },
+  {
+    "supplier_id": "SUP021",
+    "name": "Primevère Dairy Alternatives",
+    "contact": "contact@primevere-alternatives.fr",
+    "rating": 4.1,
+    "description": "Margarinas vegetales y productos sin lactosa Primevère y Flora."
+  },
+  {
+    "supplier_id": "SUP022",
+    "name": "Bjorg Bonneterre & Co Organic",
+    "contact": "bio@bjorgbonneterre.fr",
+    "rating": 4.4,
+    "description": "Productos orgánicos y mueslis saludables Bjorg y Bonneterre."
+  },
+  {
+    "supplier_id": "SUP023",
+    "name": "Rigoni di Asiago Imports",
+    "contact": "info@rigonidi-asiago.it",
+    "rating": 4.5,
+    "description": "Distribuye confituras italianas y cremas Nocciolata."
+  },
+  {
+    "supplier_id": "SUP024",
+    "name": "Alpro Plant-Based Foods",
+    "contact": "sales@alpro-foods.eu",
+    "rating": 4.3,
+    "description": "Productos de soja y bebidas vegetales (Alpro, Provamel)."
+  },
+  {
+    "supplier_id": "SUP025",
+    "name": "Volvic & Evian Distribution",
+    "contact": "water@volvic-evian.com",
+    "rating": 4.6,
+    "description": "Distribuye aguas minerales francesas Volvic y Evian."
+  },
+  {
+    "supplier_id": "SUP026",
+    "name": "Whole Earth Organic & Natural Foods",
+    "contact": "info@wholeearthfoods.co.uk",
+    "rating": 4.2,
+    "description": "Mantequillas, cereales y alimentos naturales Whole Earth y Kallø."
+  },
+  {
+    "supplier_id": "SUP027",
+    "name": "Aïn Atlas Waters",
+    "contact": "contact@ainatlas.ma",
+    "rating": 4.4,
+    "description": "Distribuye aguas minerales naturales Ain Atlas y Aïn Ifrane."
+  },
+  {
+    "supplier_id": "SUP028",
+    "name": "Chergui Dairy Cooperative",
+    "contact": "ventas@chergui.ma",
+    "rating": 4.3,
+    "description": "Lácteos frescos marroquíes: leche, yogurt y mantequilla Chergui."
+  },
+  {
+    "supplier_id": "SUP029",
+    "name": "Excelo Biscuit Manufacturing",
+    "contact": "contact@excelo.ma",
+    "rating": 4.2,
+    "description": "Fabricante y distribuidor de galletas Excelo y Momo Black."
+  },
+  {
+    "supplier_id": "SUP030",
+    "name": "Sultan North Africa Foods",
+    "contact": "info@sultanfoods.ma",
+    "rating": 4.1,
+    "description": "Distribuidor inventado para productos de cocina y condimentos del norte de África."
+  }
+]
