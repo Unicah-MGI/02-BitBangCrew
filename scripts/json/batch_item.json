@@ -1,0 +1,182 @@
+[
+  {
+    "lot_id": "LOT001",
+    "product_id": "76f53234-8057-43aa-a0f2-7ec884b29635",
+    "product_name": "Eau De Source",
+    "quantity": 8200
+  },
+  {
+    "lot_id": "LOT001",
+    "product_id": "ef1d70fb-ff10-42aa-ae6c-1c041210af5e",
+    "product_name": "Sidi Ali",
+    "quantity": 5600
+  },
+  {
+    "lot_id": "LOT002",
+    "product_id": "3517bdd2-a6ed-4cbb-8514-36fedecc649d",
+    "product_name": "Nutella",
+    "quantity": 4800
+  },
+  {
+    "lot_id": "LOT002",
+    "product_id": "43f528ba-71f4-4808-9c50-884fce2dc325",
+    "product_name": "Kinder Bueno",
+    "quantity": 6900
+  },
+  {
+    "lot_id": "LOT003",
+    "product_id": "4f2cf8e4-3165-4da8-b1e3-11e84d9d5b72",
+    "product_name": "Pain de Mie",
+    "quantity": 3700
+  },
+  {
+    "lot_id": "LOT004",
+    "product_id": "12e30cda-8b94-49c9-8b2b-4252fc376d7a",
+    "product_name": "PESTO alla GENOVESE",
+    "quantity": 5900
+  },
+  {
+    "lot_id": "LOT004",
+    "product_id": "e54a8a9c-05d9-44a8-9f4b-473cf5e7cda9",
+    "product_name": "Barilla Penne Rigate",
+    "quantity": 7200
+  },
+  {
+    "lot_id": "LOT005",
+    "product_id": "bdd9dbb7-dadc-4df6-9a5e-9c0c1e9e1a23",
+    "product_name": "Nestlé Dessert Chocolat Noir",
+    "quantity": 5100
+  },
+  {
+    "lot_id": "LOT006",
+    "product_id": "4661d56d-c4cf-4bf3-9d05-aafa593c0608",
+    "product_name": "Yaourt Nature",
+    "quantity": 8600
+  },
+  {
+    "lot_id": "LOT006",
+    "product_id": "b94392ff-ec3a-4514-8baf-b5f249b0cf19",
+    "product_name": "Jebli Lait UHT",
+    "quantity": 5400
+  },
+  {
+    "lot_id": "LOT007",
+    "product_id": "cfdfb87a-df31-480e-bbd0-ef5dd3fa7f22",
+    "product_name": "Beurre de Cacahuète",
+    "quantity": 3400
+  },
+  {
+    "lot_id": "LOT008",
+    "product_id": "3db6c018-3535-4571-a14c-f9447efacdd2",
+    "product_name": "Menguy's Cacahuètes Grillées",
+    "quantity": 7000
+  },
+  {
+    "lot_id": "LOT009",
+    "product_id": "a19b5633-22e3-41df-b7db-64d967f80ab2",
+    "product_name": "Tartine Chocolat Bio",
+    "quantity": 4100
+  },
+  {
+    "lot_id": "LOT010",
+    "product_id": "43e3f786-bdfa-44dd-a612-b707f84d2b9a",
+    "product_name": "Tartine Doux",
+    "quantity": 2500
+  },
+  {
+    "lot_id": "LOT011",
+    "product_id": "0c8126c8-9e74-4a42-bf38-9db0f4c9ad1d",
+    "product_name": "Bahia Eau Minérale",
+    "quantity": 7700
+  },
+  {
+    "lot_id": "LOT012",
+    "product_id": "9a182856-493e-46eb-ba52-b682c801a108",
+    "product_name": "Lightly Sea Salted Crisps",
+    "quantity": 4600
+  },
+  {
+    "lot_id": "LOT012",
+    "product_id": "2c346f43-b9ab-46d1-9c15-6d1c2cbce0ff",
+    "product_name": "Pringles Original",
+    "quantity": 8400
+  },
+  {
+    "lot_id": "LOT013",
+    "product_id": "eae0ba86-b248-41d1-ba9d-e38290397e52",
+    "product_name": "Excellence Noir Intense 70% Cacao",
+    "quantity": 5900
+  },
+  {
+    "lot_id": "LOT013",
+    "product_id": "1b7c95a7-11a0-4e67-b962-d83e445e2d16",
+    "product_name": "Lindt Lait Supérieur",
+    "quantity": 7100
+  },
+  {
+    "lot_id": "LOT014",
+    "product_id": "a0c03cb5-9a16-4cfb-9c35-740dc6d2b243",
+    "product_name": "Kellogg's Corn Flakes",
+    "quantity": 8000
+  },
+  {
+    "lot_id": "LOT014",
+    "product_id": "4f1baf2a-8ac9-47f0-8cb2-82ec47af61f7",
+    "product_name": "Kellogg's Extra Chocolat",
+    "quantity": 5200
+  },
+  {
+    "lot_id": "LOT015",
+    "product_id": "d4d7965c-6b56-4a90-8c7f-52a57b94a0a9",
+    "product_name": "Hawai Tropical",
+    "quantity": 9000
+  },
+  {
+    "lot_id": "LOT016",
+    "product_id": "f44a5f0d-559e-4b70-8cc9-0e7b003c2c6e",
+    "product_name": "Coca-Cola Original Taste",
+    "quantity": 8700
+  },
+  {
+    "lot_id": "LOT017",
+    "product_id": "df3fc3e3-00be-4e6d-918c-739c06d06904",
+    "product_name": "Tomato Ketchup",
+    "quantity": 5300
+  },
+  {
+    "lot_id": "LOT017",
+    "product_id": "4cb48921-8992-49a0-9a3a-5b15e7ef8f6b",
+    "product_name": "Heinz Barbecue Sauce",
+    "quantity": 3600
+  },
+  {
+    "lot_id": "LOT018",
+    "product_id": "82c01ee3-1637-4e2a-9ef3-98c6c8e0eb1b",
+    "product_name": "Bjorg Muesli Fruits",
+    "quantity": 4100
+  },
+  {
+    "lot_id": "LOT019",
+    "product_id": "0ff27053-8e61-4a4b-b3cf-02e9676cf0b3",
+    "product_name": "Excelo Cookies Chocolat",
+    "quantity": 4700
+  },
+  {
+    "lot_id": "LOT019",
+    "product_id": "028f7f4a-1d53-47e8-a0c5-7b6a84969d2d",
+    "product_name": "Momo Black Biscuits",
+    "quantity": 3900
+  },
+  {
+    "lot_id": "LOT020",
+    "product_id": "2192295d-e22e-435b-b038-bc454442a2e7",
+    "product_name": "Lait Frais 15 jours",
+    "quantity": 6500
+  },
+  {
+    "lot_id": "LOT020",
+    "product_id": "1b3e9e60-186c-4385-94c0-4ffbb8e11b4e",
+    "product_name": "Beurre Doux Chergui",
+    "quantity": 5800
+  }
+]

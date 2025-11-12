@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  cassandra:
+    image: cassandra:latest
+    container_name: cassandra-container
+    ports:
+      - "9042:9042"
+    volumes:
+      - cassandra-data:/var/lib/cassandra
+      - ./init:/init
+
+  cassandra-init:
+    image: cassandra:latest
+    depends_on:
+      - cassandra
+    volumes:
+      - ./init:/init
+    entrypoint: >
+      bash -c "
+        until cqlsh cassandra-container 9042 -e 'DESCRIBE KEYSPACES'; do
+          sleep 10;
+        done;
+        cqlsh cassandra-container 9042 -f /init/init.cql;
+      "
+
+volumes:
+  cassandra-data:

@@ -1,0 +1,102 @@
+[
+  {
+    "lot_id": "LOT001",
+    "name": "Cristaline Water Batch A25",
+    "production_date": "2025-01-18"
+  },
+  {
+    "lot_id": "LOT002",
+    "name": "Nutella Cream Lot 12B",
+    "production_date": "2025-02-04"
+  },
+  {
+    "lot_id": "LOT003",
+    "name": "La Boulangère Brioche Lot F03",
+    "production_date": "2025-02-22"
+  },
+  {
+    "lot_id": "LOT004",
+    "name": "Barilla Pesto Genovese Batch 07G",
+    "production_date": "2025-03-01"
+  },
+  {
+    "lot_id": "LOT005",
+    "name": "Nestlé Dessert Chocolate Lot C15",
+    "production_date": "2025-03-12"
+  },
+  {
+    "lot_id": "LOT006",
+    "name": "Danone Yogurt Natural Lot 05M",
+    "production_date": "2025-03-27"
+  },
+  {
+    "lot_id": "LOT007",
+    "name": "Ethiquable Peanut Butter Lot 04E",
+    "production_date": "2025-04-02"
+  },
+  {
+    "lot_id": "LOT008",
+    "name": "Menguy’s Salted Peanuts Lot 10F",
+    "production_date": "2025-04-14"
+  },
+  {
+    "lot_id": "LOT009",
+    "name": "Jardin Bio Organic Spread Batch 03B",
+    "production_date": "2025-04-30"
+  },
+  {
+    "lot_id": "LOT010",
+    "name": "Saint Hubert Margarine Lot V21",
+    "production_date": "2025-05-05"
+  },
+  {
+    "lot_id": "LOT011",
+    "name": "Atlas Maghreb Mineral Water Lot 22M",
+    "production_date": "2025-05-18"
+  },
+  {
+    "lot_id": "LOT012",
+    "name": "Pringles Sour Cream Lot SC2025",
+    "production_date": "2025-05-27"
+  },
+  {
+    "lot_id": "LOT013",
+    "name": "Lindt Milk Chocolate Batch 25L",
+    "production_date": "2025-06-04"
+  },
+  {
+    "lot_id": "LOT014",
+    "name": "Kellogg’s Corn Flakes Lot CF09",
+    "production_date": "2025-06-20"
+  },
+  {
+    "lot_id": "LOT015",
+    "name": "PepsiCo Hawai Tropical Lot H25",
+    "production_date": "2025-07-02"
+  },
+  {
+    "lot_id": "LOT016",
+    "name": "Coca-Cola Morocco Batch 33",
+    "production_date": "2025-07-10"
+  },
+  {
+    "lot_id": "LOT017",
+    "name": "Heinz Tomato Ketchup Lot 48A",
+    "production_date": "2025-07-25"
+  },
+  {
+    "lot_id": "LOT018",
+    "name": "Bjorg Organic Muesli Batch B12",
+    "production_date": "2025-08-08"
+  },
+  {
+    "lot_id": "LOT019",
+    "name": "Excelo Cookies Batch X14",
+    "production_date": "2025-09-03"
+  },
+  {
+    "lot_id": "LOT020",
+    "name": "Chergui Butter Lot 05D",
+    "production_date": "2025-10-12"
+  }
+]

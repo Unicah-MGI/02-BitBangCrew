@@ -1,0 +1,3843 @@
+[
+  {
+    "product_id": "7a734d25-aca8-4567-b728-e910fbab7bd7",
+    "brands": "maroc.",
+    "manufacturing_places": "",
+    "product_name": "Sidi Ali",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "f91e73e8-b7c3-485e-a4f8-ea646e2fd12c",
+    "brands": "perly",
+    "manufacturing_places": "Maroc",
+    "product_name": "perly",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ef1d70fb-ff10-42aa-ae6c-1c041210af5e",
+    "brands": "sidi ali",
+    "manufacturing_places": "",
+    "product_name": "Sidi Ali",
+    "product_quantity": 2000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "75e51f38-2045-40bf-914c-6f37196806f9",
+    "brands": "Les Eaux Minérales d'oulmès,Sidi Ali",
+    "manufacturing_places": "",
+    "product_name": "Eau minérale naturelle",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "26d18ae5-0604-4a32-bc42-bfdd721da8bf",
+    "brands": "AQUAFINA",
+    "manufacturing_places": "Casablanca Morocco",
+    "product_name": "اكوافينا",
+    "product_quantity": "330",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "17c3706a-ba3b-4fdc-b435-efc76dcacff4",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "Lait",
+    "product_quantity": 450,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "76f53234-8057-43aa-a0f2-7ec884b29635",
+    "brands": "Cristaline",
+    "manufacturing_places": "Saint-Martin de Gurson,France,24610",
+    "owner": "org-gie-sources-alma",
+    "product_name": "Eau De Source",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "fd382374-4d4c-480a-9e19-ec44f2f1cbed",
+    "brands": "MILKY FOOD PROFESSIONAL",
+    "manufacturing_places": "Maroc",
+    "product_name": "Fromage blanc nature",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ca7c557e-84e5-45d0-9239-a693af47d96d",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "uht jaouda 1L",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "bd385c1f-de2d-4794-84ab-876cfec5328c",
+    "brands": "La vache qui rit"
+  },
+  {
+    "product_id": "3b1806bf-3393-47e7-8b47-7de390c7c0f2",
+    "brands": "Takis",
+    "manufacturing_places": "",
+    "product_name": "Takis volcano",
+    "product_quantity": 55,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8df66d4f-1ada-4492-915d-607696b63e85",
+    "brands": "Gut & Günstig",
+    "product_name": "Tomaten",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "074d0d79-3f5e-449e-b923-5994b60bcbd2",
+    "brands": "Dobele",
+    "manufacturing_places": "",
+    "product_name": "Cornetti rigatti"
+  },
+  {
+    "product_id": "a6219914-7a64-4733-8293-6b73c46d31bd",
+    "brands": "Schogetten",
+    "manufacturing_places": "",
+    "product_name": "Crunchy Peanut Butter Chocolate",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "22bd6c44-7e9b-4b87-9282-6b0fb0b4393b",
+    "brands": "Auchan",
+    "manufacturing_places": "",
+    "product_name": "Muffins con pepitas de chocolate"
+  },
+  {
+    "product_id": "bb899d65-1d0a-4a91-be23-4a23b62e301a",
+    "brands": "Jupí",
+    "manufacturing_places": "Česko",
+    "product_name": "Citron",
+    "product_quantity": 700,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "5b764e12-b506-454c-9f61-a7fea36bac09",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": "Bio Datteln Getrocknet",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9c17f53b-751f-4015-9089-937b608c5ad4",
+    "brands": "Dm",
+    "manufacturing_places": "",
+    "product_name": "Cannellini Bohnen",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "de2926ca-1ba4-4559-a7fc-b90619e1cd6a",
+    "brands": "Smântânã",
+    "manufacturing_places": "",
+    "product_name": "Covalact de Tará 20%",
+    "product_quantity": 140,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "4e8d5d42-8ae9-415d-91d3-78c287fc202e",
+    "brands": "Ülker",
+    "product_name": "Albeni Bar Cake",
+    "product_quantity": 30,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "374e2491-d5d6-44ca-8187-87eb0fac5dcb",
+    "brands": "Unearthed",
+    "product_name": "Mini Chocolate Filled Churros"
+  },
+  {
+    "product_id": "ae5814c3-4018-45b9-a3a1-f9844e811094",
+    "brands": "Nice Bites",
+    "product_name": "Cashew And Cranberries"
+  },
+  {
+    "product_id": "21f2cdfb-8f55-4800-bc65-56b392bb15bd",
+    "product_name": "Fellas bar"
+  },
+  {
+    "product_id": "ef969295-d45b-40a9-a265-1dd603f92442",
+    "brands": "Jaouda",
+    "product_name": "Jben",
+    "product_quantity": 160,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "77624ee3-2088-4dd1-ac98-b3b4bf569e53",
+    "brands": "Danone",
+    "manufacturing_places": "Fes Morocco",
+    "product_name": "Ain Saïss",
+    "product_quantity": "1500",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "833d2a74-a9d6-4e5b-ba6a-096eb5b1d1da",
+    "brands": "Ain atlas",
+    "manufacturing_places": "",
+    "product_name": "Eau minéral naturelle",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "a9b9cf32-a5c3-4868-94ac-1b40817435d4",
+    "brands": "Sidi Ali",
+    "manufacturing_places": "Oulmes",
+    "product_name": "6111035000027",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "05e518b4-7b91-47a5-b6c5-0a5caab95b3f",
+    "brands": "Marmite,Unilever",
+    "manufacturing_places": "Bureton-on-Trent,England",
+    "product_name": "Marmite Yeast Extract",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fc2c6ac2-6dd3-45d9-a442-a179c0e92f1e",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 80,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0e57d83f-7cfb-4a0a-9e2c-6780d02aa71b",
+    "brands": "centrale danone",
+    "product_name": "Lait Frais",
+    "product_quantity": "470",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "473196d2-3e77-4a2a-ba6c-674e24356aba",
+    "brands": "lilia",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5a29bb38-dd46-4d32-ba62-23fa4baeb5c8",
+    "brands": "pepsi",
+    "manufacturing_places": "",
+    "product_name": "اكوافينا",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "896e6ccf-539f-4517-859e-d1c7b6c1e77b",
+    "brands": "LU",
+    "manufacturing_places": "",
+    "product_name": "Prince Goût Chocolat",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "290f9742-0a10-4389-b442-39c89be337d0",
+    "brands": "Lindt",
+    "manufacturing_places": "Aachen",
+    "product_name": "Supreme Dark 90%",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b7973de0-d6d8-4646-a24e-3a75ad4005c6",
+    "brands": "Les eaux minérales d'Oulmès S.A.",
+    "manufacturing_places": "",
+    "product_name": "Oulmes natural carbonated water",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "3517bdd2-a6ed-4cbb-8514-36fedecc649d",
+    "brands": "Ferrero",
+    "manufacturing_places": "France",
+    "owner": "org-ferrero-france-commerciale",
+    "product_name": "Nutella",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fa348424-76ea-4bb6-9d26-9ea88348db43",
+    "brands": "Coca cola",
+    "manufacturing_places": "Orange",
+    "product_name": "Orange juice",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "1635bcb2-376b-47a5-9c97-2025df39cf64",
+    "brands": "Bimo",
+    "manufacturing_places": "",
+    "product_name": "Tonik",
+    "product_quantity": 22,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c357f9a8-518c-4177-858e-46d5fc28198d",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": "levure pâtisserie",
+    "product_quantity": 80,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "3843765a-9819-4dd5-b255-4707dde33a2e",
+    "brands": "Danone",
+    "manufacturing_places": "",
+    "product_name": "Ain Saiss Eau Minerale Naturelle",
+    "product_quantity": "330",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "3316819f-8bdd-4ac6-a0e9-708f390897d8",
+    "brands": "Gerblé",
+    "manufacturing_places": "France",
+    "product_name": "Sésame",
+    "product_quantity": 230,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "673effea-4d00-4d88-877f-4086dcd768fa",
+    "brands": "Délicia",
+    "manufacturing_places": "",
+    "product_name": "Confiture de fraise",
+    "product_quantity": "430",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "826019dc-a109-4dc0-a8ec-d28882b894f8",
+    "brands": "Eau minérale naturelle des Montagnes d'Atlas",
+    "manufacturing_places": "Oulémas",
+    "product_name": "Ain Atlas",
+    "product_quantity": 5000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "4661d56d-c4cf-4bf3-9d05-aafa593c0608",
+    "brands": "Jaouda",
+    "manufacturing_places": "Maroc",
+    "product_name": "Yaourt nature",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e35d21bf-38e4-4061-989a-56cca80da5df",
+    "brands": "Eau minérale naturelle",
+    "manufacturing_places": "",
+    "product_name": "Ain Atlas",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "a5d2eb9f-dce4-4315-b0b2-d1cc136404f9",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Mayonnaise recette originale",
+    "product_quantity": 280,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "ee95ca53-9421-4d53-a571-793deffb9426",
+    "brands": "Jason’s",
+    "manufacturing_places": "",
+    "product_name": "Sourdough White Ciabattin Bread",
+    "product_quantity": 580,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "2b1db41f-e640-4dae-bce4-40aa25c1a11d",
+    "brands": "aïn Saiss",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": "5000",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "b8f25a01-f570-4389-9573-8f6da44bc7d3",
+    "brands": "J.D. Gross",
+    "manufacturing_places": "",
+    "product_name": "Chocolat noir - 85% cacao",
+    "product_quantity": "125",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "3da930f7-423d-458e-a401-447e11e13de7",
+    "brands": "Cristaline",
+    "manufacturing_places": "France,Italie",
+    "owner": "org-gie-sources-alma",
+    "product_name": "CRISTALINE Eau De Source 0.5L",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "05a9c520-d353-48a8-98b1-21362b8b1646",
+    "brands": "Jason's Sourdough",
+    "product_name": "Proper Sourdough",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "89b2d38d-c12d-40d5-8017-09b3b59f99b1",
+    "brands": "Ferrero",
+    "manufacturing_places": "",
+    "owner": "org-ferrero-france-commerciale",
+    "product_name": "Nutella",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "cca1f2f4-5691-4dc9-a2ea-d88912ac63de",
+    "brands": "Jason's",
+    "product_name": "Sourdough Grains & Seeds",
+    "product_quantity": 580,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d62e1896-5e0e-4b2d-b7fb-f9142a7839fa",
+    "brands": "la Hollandaise",
+    "product_name": "Cheddar",
+    "product_quantity": 336,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "bfcb8ea2-24b3-40f1-baca-2603eb4bf1d6",
+    "brands": "Alesto, Lidl",
+    "manufacturing_places": "",
+    "product_name": "Mandeln",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6fb29498-78d2-4137-9e4b-66f2a4989ebd",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Sel de table iodé",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "3fe1fbfc-0baf-447e-abc2-5e3c1c3bead3",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Ketchup star 310 g",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "9593843c-9d91-4bfa-a6e6-519e37e45c52",
+    "brands": "Alesto,10 x Lidl 10.25,12 x Lidl 10.25",
+    "manufacturing_places": "52531 Übach-Palenberg,Deutschland",
+    "product_name": "Cashewkerne",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "95d37803-533a-4b2d-884d-204cd34d4f04",
+    "brands": "COSUMAR",
+    "manufacturing_places": "Casablanca Morocco",
+    "product_name": "Cosumar Sucre En Lingot Pour Le Thé 1 kg",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1625ea9d-a6cc-4099-af7c-72cdd15cbb2e",
+    "brands": "Salim",
+    "manufacturing_places": "",
+    "product_name": "Salim",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "e7210265-320a-4023-a3a8-b094404b50d5",
+    "brands": "Henry's",
+    "manufacturing_places": "",
+    "product_name": "Henry’s",
+    "product_quantity": 42,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "347bfbd7-15c9-4d88-b4ea-f827cc15b022",
+    "brands": "Danone",
+    "manufacturing_places": "",
+    "product_name": "Assil",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "59fe7d6d-5565-4b47-9b34-f787d270b717",
+    "brands": "jaouda",
+    "manufacturing_places": "",
+    "product_name": "Cremy",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e2625bf0-ae7f-4b97-a8e1-c768d68b44bd",
+    "brands": "Coca-Cola",
+    "manufacturing_places": "France,Issy-les-Moulineaux",
+    "product_name": "Coca-Cola",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "1d506c87-1671-4569-a39d-314582f426bd",
+    "brands": "THE COCA-COLA COMPANY",
+    "manufacturing_places": "",
+    "product_name": "Ciel",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "d262153c-18c3-412e-9d6b-bc0583f799ab",
+    "brands": "عين سايس",
+    "manufacturing_places": "",
+    "product_name": "ain saiss 50cl"
+  },
+  {
+    "product_id": "898795ae-2b8d-420b-bf67-8a1cb709b31f",
+    "brands": "Maruja",
+    "manufacturing_places": "Espagne",
+    "product_name": "",
+    "product_quantity": 150,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "81ba2d62-4a9d-4c6a-9443-38ecfa91106f",
+    "brands": "Ciel",
+    "manufacturing_places": "",
+    "product_name": "Ciel 33cl",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "c181d70e-600f-4b09-bdaf-95cc2e9aa392",
+    "brands": "Original",
+    "product_name": "Cream cheese",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1ee2684c-9dcd-47ed-84a9-4f472fdfda9f",
+    "brands": "BAHIA",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": "5000",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "2983f77f-c3d7-4106-8146-f0894c5b5ddd",
+    "brands": "Lurpak",
+    "manufacturing_places": "",
+    "product_name": "Spreadable Slightly Salted",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ce5a1e7e-becc-41f6-b5e0-8abd7431c281",
+    "brands": "Nescafé",
+    "manufacturing_places": "Maroc",
+    "product_name": "Nescafé Classic",
+    "product_quantity": 45,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a3c75e10-c11e-452f-9dc5-6149a51f5c4c",
+    "brands": "jibal",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 160,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "09bf214e-54af-4b3c-b9b3-2e4ddeeed934",
+    "brands": "Danone",
+    "manufacturing_places": "maroc",
+    "product_name": "Jamila رايبي",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "67990f95-f8bb-471b-a596-d34227ba347f",
+    "brands": "Green & Black's",
+    "manufacturing_places": "",
+    "product_name": "Organic 70% Dark Chocolate Bar",
+    "product_quantity": 90,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "7a38cf1e-e786-49bc-a73c-dd617e6ae003",
+    "brands": "Excelo",
+    "manufacturing_places": "",
+    "product_name": "KING COOKIES"
+  },
+  {
+    "product_id": "17b9ce72-6c2e-4b75-9b37-4477b4fd47e9",
+    "brands": "Oulmès",
+    "manufacturing_places": "Marrakech",
+    "product_name": "Oulmes Eau Gazeuse",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "0b1d3137-4ae8-4e07-972d-7589eaad5ab6",
+    "brands": "Aïn lfrane",
+    "manufacturing_places": "",
+    "product_name": "Eau",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "a2e7e4a4-1dce-43ee-a197-258a6f7db64a",
+    "brands": "Coca-Cola",
+    "manufacturing_places": "Serbia,France",
+    "product_name": "Coke Zero",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "4168d334-daf0-4b51-9f2c-763c750e6935",
+    "brands": "Aquafina",
+    "manufacturing_places": "",
+    "product_name": "Aquafina 50cl",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "a7f46162-897b-49ab-bce2-6dbd4c60df21",
+    "brands": "Henry's",
+    "manufacturing_places": "Maroc",
+    "product_name": "Sable coco Henry s 42g",
+    "product_quantity": 42,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5f96da58-ad59-4e85-93f5-0849f8fb6c21",
+    "brands": "solis",
+    "manufacturing_places": "",
+    "product_name": "sauce tomate cuisinée",
+    "product_quantity": "350",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d9a6ee24-a10e-4ea8-9563-9ea67d430a8b",
+    "brands": "Alesto Selection, Alesto",
+    "manufacturing_places": "Alemania",
+    "product_name": "Notenmix Mélange de Noix ongebrand - non grillé",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c59038e4-3f79-4b65-8576-6db5e1dff366",
+    "brands": "Aïn Atlas",
+    "manufacturing_places": "",
+    "product_name": "Aïn Atlas 50cl",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "fab30bed-b345-447b-9144-75566d281b38",
+    "brands": "Oatly",
+    "manufacturing_places": "",
+    "product_name": "Oat Drink Barista Edition",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "d1922e86-d5d5-4f38-a589-8eea5be07517",
+    "brands": "Dost",
+    "manufacturing_places": "",
+    "product_name": "Lait U.H.T entier",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "467b2cf6-5e7c-462a-9311-aba288b257ea",
+    "brands": "wasa",
+    "manufacturing_places": "Barilla Sverige AB,682 82,Filipstad,Zweden",
+    "owner": "org-barilla-france-sa",
+    "product_name": "Tartine croustillante Authentique",
+    "product_quantity": 275,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1e080330-330e-4022-8bd4-0db862c77db3",
+    "brands": "la Prairie",
+    "manufacturing_places": "maroc",
+    "product_name": "margarine la prairie 225g",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "eae0ba86-b248-41d1-ba9d-e38290397e52",
+    "brands": "Lindt",
+    "manufacturing_places": "France",
+    "product_name": "Excellence Noir Intense 70% Cacao",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0a7cfe1f-6c39-4393-9243-36b0793c047d",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Star vinaigre de table BLANC",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "656d3598-bcb7-4779-9ea5-f88c89428a0f",
+    "brands": "Rigoni Di Asiago",
+    "manufacturing_places": "Asiago,Italie",
+    "product_name": "Nocciolata",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "cb7a3f83-94e3-467c-a94f-3742d7e952fb",
+    "brands": "Weetabix",
+    "manufacturing_places": "",
+    "product_name": "Weetabix",
+    "product_quantity": "430",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "61177595-5b60-4100-860e-dc23bc313c30",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": "Familia 200g",
+    "product_quantity": 1.4264,
+    "product_quantity_unit": "mmol/l"
+  },
+  {
+    "product_id": "ba863d1d-7c3b-4469-9881-7130e6831c83",
+    "brands": "Gervais",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 80,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ab31af63-9aaa-414a-8330-7d2709b0c622",
+    "brands": "Bonne Maman",
+    "manufacturing_places": "",
+    "product_name": "Pâte à tartiner noisettes et cacao",
+    "product_quantity": 360,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "88abf283-c21d-4256-8ab9-7f626917b101",
+    "brands": "Volvic",
+    "manufacturing_places": "",
+    "product_name": "Eau Minérale Naturelle",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "9a182856-493e-46eb-ba52-b682c801a108",
+    "brands": "Tyrrell's",
+    "manufacturing_places": "United Kingdom",
+    "product_name": "Lightly sea salted crisps",
+    "product_quantity": 150,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9deb8373-c387-43b3-9edb-928ce7567c09",
+    "brands": "Lindt",
+    "manufacturing_places": "France,Oloron-sainte-marie 64400",
+    "product_name": "Excellence Noir Puissant 85% Cacao",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0292dc2a-28c7-43a6-9c69-70f335e1dbdb",
+    "brands": "Green and black",
+    "manufacturing_places": "",
+    "product_name": "Dark chocolate",
+    "product_quantity": 90,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "43e3f786-bdfa-44dd-a612-b707f84d2b9a",
+    "brands": "Primevère",
+    "manufacturing_places": "France",
+    "product_name": "Tartine Doux",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "29573e72-1f3e-4c0e-8dd2-a9d23c2d5532",
+    "brands": "joly",
+    "manufacturing_places": "",
+    "product_name": "Filets de maquereau",
+    "product_quantity": 125,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a54a782a-e42a-4152-9cfe-63208c292ebc",
+    "brands": "sos",
+    "product_name": "611251753912",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1a6c732c-2c33-4e22-9886-fe9ba6b4fc65",
+    "brands": "سلطان",
+    "manufacturing_places": "",
+    "product_name": "Aïn Soltane",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "7ed73e94-069c-4939-8357-e21573e6d560",
+    "brands": "Bjorg",
+    "manufacturing_places": "France",
+    "product_name": "Fourrés Chocolat Noir",
+    "product_quantity": 225,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a800ad5b-3aaf-4a26-aa30-fbac9c4736cd",
+    "brands": "fin CARRÉ",
+    "manufacturing_places": "Übach-Palenberg,Heinsberg (Kreis),Köln (Regierungsbezirk),Nordrhein-Westfalen,Deutschland",
+    "product_name": "Extra dark 74% Cocoa",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "45d0f392-3e18-42a2-be54-240d8a98ab6c",
+    "brands": "10dh",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "c85c8b13-9cbc-400d-b451-0a6b644cc4b0",
+    "brands": "El Baraka",
+    "manufacturing_places": "",
+    "product_name": "Confiture De Fraises 430 G",
+    "product_quantity": 430,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9037f0fa-e8f6-4104-b25c-1dc13942d3bc",
+    "brands": "Jardin Bio, Léa Nature",
+    "manufacturing_places": "Pays-Bas",
+    "owner": "org-lea-nature",
+    "product_name": "Pur beurre de cacahuète",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b7bce25c-78ad-4ca4-8444-8743ca65da89",
+    "brands": "Kallo",
+    "manufacturing_places": "",
+    "product_name": "Organic Lightly Salted Wholegrain Low Fat Rice Cakes",
+    "product_quantity": 130,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "db5ebc4d-e057-4f06-bab8-1e18b4cc5a51",
+    "brands": "Hawai,Coca cola",
+    "manufacturing_places": "Hawai Coca cola Morocco",
+    "product_name": "Hawai Tropical",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "dded07fe-e890-49a1-b8e6-062ae37d1569",
+    "brands": "Yoplait",
+    "manufacturing_places": "Boulogne-Billancourt,France,Le Mans",
+    "product_name": "Skyr nature 0%",
+    "product_quantity": 850,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "04c13fca-2469-456a-9588-8501b45cef4d",
+    "brands": "Ciel",
+    "manufacturing_places": "",
+    "product_name": "Eau de table",
+    "product_quantity": 5000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "b1189dbd-4155-44fe-a985-76224d1403e9",
+    "brands": "Star",
+    "manufacturing_places": "maroc",
+    "product_name": "",
+    "product_quantity": 90,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "3418f2fa-ea75-4cbe-9091-24e19507a95e",
+    "brands": "la Boulangère",
+    "manufacturing_places": "85140 Essarts en Bocage",
+    "owner": "org-la-boulangere-co",
+    "product_name": "Pain de mie grandes tranches Seigle & Graines 500g",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8c1f190b-0fc5-44cb-80c5-0d8d856c3e23",
+    "brands": "lio",
+    "manufacturing_places": ""
+  },
+  {
+    "product_id": "ca000b8a-25c0-4e17-ad1c-7e5631cd2bfd",
+    "brands": "Jasons",
+    "manufacturing_places": "Loughborough",
+    "product_name": "Jasons Sourdough",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b59850f0-b8f2-4abf-ab5e-b2889c3a960d",
+    "brands": "Rigoni di Asiago",
+    "product_name": "Nocciolata bio",
+    "product_quantity": "650",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a7f05639-20ac-4be0-83a0-b6d19c96c6fe",
+    "brands": "Jaouda",
+    "manufacturing_places": "maroc",
+    "product_name": "Lait Entier UHT",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "7e612d06-06e4-47a9-96b1-baeb5c4d808c",
+    "brands": "Krisprolls",
+    "manufacturing_places": "Suède",
+    "product_name": "Krisprolls complets sans sucres ajoutés",
+    "product_quantity": 425,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "887c5516-7511-48b2-96fb-bfb4f5c07291",
+    "brands": "green tea",
+    "manufacturing_places": "",
+    "product_name": "Green Tea",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "dff537d2-f983-48c9-8ea6-a941160c2c49",
+    "brands": "Star",
+    "manufacturing_places": "Morocco,casablanca",
+    "product_name": "Mayonnaise",
+    "product_quantity": 185,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "01f65d0c-9f2c-4610-8d92-2cd6d4e2f1a1",
+    "brands": "Wasa",
+    "manufacturing_places": "Barilla Deutschland GmbH,Wasastrasze 10,29229,Celle,Allemagne",
+    "owner": "org-barilla-france-sa",
+    "product_name": "FIBRES",
+    "product_quantity": 230,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8b2892a8-e99c-47c0-b16e-ce72894d3d0b",
+    "brands": "Henry’s",
+    "manufacturing_places": "Biscuits",
+    "product_name": "Henry’s",
+    "product_quantity": 85,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5c32b18a-d5c7-476d-be0e-a3639aeb7151",
+    "brands": "Jacquet",
+    "manufacturing_places": "France,Auvergne",
+    "owner": "org-jacquet-brossard-distribution",
+    "product_name": "14 Maxi Tranches complet sans sucres ajoutés",
+    "product_quantity": 550,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "12e30cda-8b94-49c9-8b2b-4252fc376d7a",
+    "brands": "Barilla",
+    "manufacturing_places": "Italy",
+    "owner": "org-barilla-france-sa",
+    "product_name": "PESTO alla GENOVESE",
+    "product_quantity": 190,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0628bcbf-4065-4174-9811-6cc9d740a484",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": "150",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "1ee824aa-7006-4b04-a31f-ada424e78a06",
+    "brands": "Excelo",
+    "manufacturing_places": "",
+    "product_name": "Momo black",
+    "product_quantity": 36,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "3c759123-dcbd-40ec-9135-31bea4040edc",
+    "brands": "Delicia",
+    "manufacturing_places": "",
+    "product_name": "Confiture d'abricot",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "03ea1d5e-8525-4d32-af2c-f7ee9500db75",
+    "brands": "Poulain",
+    "manufacturing_places": "",
+    "product_name": "poulain",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e662d4ba-e56b-40a8-9ad3-49b8c2bd15d9",
+    "brands": "LU, Mondelēz, Tuc, Mondelez",
+    "manufacturing_places": "",
+    "product_name": "Original",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "49196e20-a67c-4b33-84fd-ad029eec3fb9",
+    "brands": "Quaker",
+    "manufacturing_places": "",
+    "owner": "org-pepsico-france",
+    "product_name": "cruesly mélange de noix",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "df3fc3e3-00be-4e6d-918c-739c06d06904",
+    "brands": "Heinz",
+    "manufacturing_places": "",
+    "product_name": "Tomato Ketchup",
+    "product_quantity": 800,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "37e26447-5fc4-42d6-81cd-985a82403c4c",
+    "brands": "Ferrero, Nutella",
+    "manufacturing_places": "",
+    "owner": "org-ferrero-france-commerciale",
+    "product_name": "Nutella",
+    "product_quantity": 825,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8383cda8-7650-4669-b23e-13eef3ee65e8",
+    "brands": "Bimo,Mondelez",
+    "manufacturing_places": "",
+    "product_name": "Merendino",
+    "product_quantity": "36",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "51033909-c713-4afd-880f-a180c5f38d71",
+    "brands": "Danone",
+    "manufacturing_places": "سنطرال - دانون - طريق القنيطرة. سلا. المغرب",
+    "product_name": "DANONE ASSIL BANANE",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "df82ce41-ab09-4fe4-a8f0-0c632702fb79",
+    "brands": "Centrale, Danone, Jebli",
+    "manufacturing_places": "",
+    "product_name": "Jebli"
+  },
+  {
+    "product_id": "dbf20c99-68d5-49fc-9c64-813bf31f264c",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": "Aïn Ifrane",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "7c15a95f-76c1-4819-a07c-49e472e0f112",
+    "brands": "Idéal",
+    "manufacturing_places": "",
+    "product_name": "سكر الفانيلين",
+    "product_quantity": 75,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "77bf2c80-aec9-414e-ad27-38d6c81c7df9",
+    "brands": "Lilia",
+    "product_name": "مارغرين المائدة",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "633fa212-413b-49bc-82f4-61e0bf0040ef",
+    "brands": "Nestlé,Nestlé Waters,San Pellegrino",
+    "manufacturing_places": "Italia",
+    "owner": "org-nestle-waters",
+    "product_name": "S. Pellegrino Water",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "8285a850-6ad1-499a-a0a6-cc1e02959683",
+    "brands": "Marigold",
+    "manufacturing_places": "",
+    "product_name": "Vegan Bouillon powder",
+    "product_quantity": "150",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "668ecf02-c8a1-493c-be19-2357bc781fdd",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "raibi jaoda",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "cc03f9b5-2415-4b0a-a3d1-0cf50bbe9d78",
+    "brands": "Poulain",
+    "manufacturing_places": "",
+    "product_name": "1848 Chocolat en poudre",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b8d0d5de-bd7d-4b8e-8884-eca73aaa3ae3",
+    "brands": "Ferrero,Nutella",
+    "manufacturing_places": "",
+    "owner": "org-ferrero-france-commerciale",
+    "product_name": "nutella",
+    "product_quantity": 630,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "489cfca2-32cd-4822-8b99-50cee69d89ed",
+    "brands": "el baraka",
+    "manufacturing_places": "",
+    "product_name": "El Baraka Confiture D'abricots 430 G",
+    "product_quantity": 430,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "cf0f9708-ff75-4177-bd3e-4adb6e6cb5c7",
+    "brands": "Nescafe",
+    "manufacturing_places": "",
+    "product_name": "Nescafé",
+    "product_quantity": 95,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "3e4126d1-ed15-4900-b592-de8fa70eab0d",
+    "brands": "Primevère",
+    "manufacturing_places": "France",
+    "product_name": "Primevère bio doux tartine & cuisson",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "026affc5-cdd9-4232-8c0e-6a1f8e173302",
+    "brands": "Milbona Lidl",
+    "manufacturing_places": "",
+    "product_name": "NATURAL YOGURT",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e6c0b8e5-c315-4ec4-b428-f365e29e2761",
+    "brands": "Tendre, jouda",
+    "product_name": "Tendre nature",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "dffaa025-1edd-4311-b2f5-a6fa257e392b",
+    "brands": "EXCELO",
+    "manufacturing_places": "maroc",
+    "product_name": "Eyoo cover",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "04e465a6-057c-4514-afde-37155b8f6b03",
+    "brands": "Coca-Cola",
+    "manufacturing_places": "",
+    "product_name": "Coke Zero can",
+    "product_quantity": 330,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "5c6294bc-247b-407d-b718-30d1bf03338b",
+    "brands": "Danone,La Salvetat",
+    "manufacturing_places": "France",
+    "product_name": "La salvetat",
+    "product_quantity": 1150,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "75665fef-b808-4685-b5fe-3d8f0861afb4",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "Yaourt Grec Muesli",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "560467ac-9284-4bbc-89a9-2fcf1faee887",
+    "brands": "Gerblé",
+    "manufacturing_places": "France",
+    "product_name": "Pomme 🍏 🍎 Noisette🥜",
+    "product_quantity": 230,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0a026aef-15cf-4163-8fca-ec7d457d5e5f",
+    "brands": "Danone",
+    "product_name": "Danino",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "faec08c0-57f2-447d-9f24-1d9528c957c5",
+    "brands": "Ryvita",
+    "manufacturing_places": "",
+    "product_name": "Dark Rye Crispbread",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "37de3986-b61f-467c-afae-9cba319fdb5f",
+    "product_name": "Pipas"
+  },
+  {
+    "product_id": "1ae249f6-2389-406a-a683-7fdfee2038f0",
+    "brands": "Ekibio,Le pain des Fleurs",
+    "manufacturing_places": "Peaugres 07340",
+    "product_name": "Tartines craquantes au sarrasin imp",
+    "product_quantity": 160,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "2c53f9a7-75e6-4a9d-a05e-da8440496d29",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "LBEN CARTON PASTEURISER",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fc8fdfba-ac0d-4147-9eef-6632cf18c36e",
+    "brands": "Elle & Vire, Savencia",
+    "manufacturing_places": "Normandie,France",
+    "owner": "org-elle-vire",
+    "product_name": "Le Beurre Tendre Doux",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "2442b707-eb57-4e0b-b3bd-4d4908dd2c8c",
+    "brands": "Brownfield, CROWNFIELD",
+    "manufacturing_places": "Germania",
+    "product_name": "Haferflocken",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5408a870-5ff9-40ad-952a-5070e872da49",
+    "brands": "Andros",
+    "manufacturing_places": "France,Brive-la-Gaillarde",
+    "product_name": "Be Nuts ! - Pâte à tartiner Cacahuète",
+    "product_quantity": 325,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6df09e07-3334-4133-a891-823c522d0083",
+    "brands": "Albane",
+    "product_name": "Le bon lait",
+    "product_quantity": "0"
+  },
+  {
+    "product_id": "3604f08f-7f0c-477e-9e3e-a5f76cfb62e6",
+    "brands": "Weetabix",
+    "manufacturing_places": "",
+    "product_name": "Family Pack",
+    "product_quantity": 860,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e27ad7bc-148e-488a-bb06-720223bf3e92",
+    "brands": "Wicked Kitchen",
+    "manufacturing_places": "",
+    "product_name": "4 Garlic & Herb Kebabs"
+  },
+  {
+    "product_id": "7e5bbed4-908e-4924-94a6-dd04f4de3f6d",
+    "brands": "Kallø",
+    "manufacturing_places": "",
+    "product_name": "Organic Vegetable Stock Cubes",
+    "product_quantity": 88,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "66b1618e-dbff-473d-94b5-f8fe2cf71cbe",
+    "brands": "J.D. Gross,Lidl",
+    "manufacturing_places": "Rausch Schokoladen GmbH,Peine (Landkreis),Niedersachsen,Deutschland",
+    "product_name": "Dark Chocolate 70%",
+    "product_quantity": "125",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8b4ec3b6-7df6-48fd-a3a9-31d5ea297ab6",
+    "brands": "Aperitivos company",
+    "manufacturing_places": "Tanger,Maroc",
+    "product_name": "Trios",
+    "product_quantity": "20",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e3049167-c448-4ee5-be8a-b08a8e899ebe",
+    "brands": "The Tofoo Co.",
+    "manufacturing_places": "United Kingdom",
+    "product_name": "Tofoo Naked",
+    "product_quantity": 280,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6a76e3a1-1ae7-4497-ac60-07f65b1d069f",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "Le Lait demi écrémé",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "b20f1aa0-d0f8-4356-a0b1-eaaa0d4f889b",
+    "brands": "Ferrero",
+    "manufacturing_places": "",
+    "product_name": "Nutella",
+    "product_quantity": 750,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "80cf7867-5de0-4959-ae79-a80fbd89c56c",
+    "brands": "Bahia",
+    "manufacturing_places": "",
+    "product_name": "Bahia, Eau De Table",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "313c1b4d-3beb-4cd1-b358-95c794927ef2",
+    "brands": "Elle & Vire",
+    "manufacturing_places": "Grièges,France",
+    "product_name": "Carré Frais",
+    "product_quantity": "200",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d1224a7d-258e-4768-ba79-8a63e66ae3c2",
+    "brands": "Bjorg",
+    "manufacturing_places": "Allemagne",
+    "product_name": "Flocons d'avoine",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "712ac3f8-3176-4b7b-a323-c8fcca2568a4",
+    "product_name": "Dalaa 550 feuilles"
+  },
+  {
+    "product_id": "fe02b8f7-dcc1-4b89-8830-e6a11a779000",
+    "brands": "Nature Valley",
+    "manufacturing_places": "Espagne",
+    "product_name": "Crunchy oats & honey",
+    "product_quantity": 42,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8889e54d-4aeb-4f62-8324-4c98d848ac89",
+    "brands": "Ferrero",
+    "manufacturing_places": "",
+    "product_name": "nutella",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9f943714-7479-421f-9ac7-0b48afa84370",
+    "product_name": "Salim",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "ef890f5c-4446-42b5-a58f-b61b251ad667",
+    "brands": "Gerblé",
+    "manufacturing_places": "Nutrition et santé SAS,Route de Castelnaudary,31250,Revel,France",
+    "product_name": "Levure de bière",
+    "product_quantity": 150,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "2192295d-e22e-435b-b038-bc454442a2e7",
+    "brands": "Chergui",
+    "manufacturing_places": "",
+    "product_name": "Lait Frais 15 jours",
+    "product_quantity": 900,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "40cba2c6-e6ea-46a9-adbe-4b1843d9fb19",
+    "brands": "Lidl,Lidl Rowan Hill Bakery,Lidl Tastino,Rowan Hill Bakery",
+    "manufacturing_places": "",
+    "product_name": "Wholegrain Rye Bread",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "19058de1-000f-4499-bbc8-69c1115679f1",
+    "brands": "margafrique",
+    "manufacturing_places": "",
+    "product_name": "La prairie classique",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "b4586473-26da-41d3-af2f-45eafbf2d9d4",
+    "brands": "Jaouda",
+    "manufacturing_places": "Yaourt",
+    "product_name": "Ghilal Yaourt zr3",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "de80d548-6b32-4930-95c4-fe065f00edb3",
+    "brands": "Bjorg",
+    "manufacturing_places": "Allemagne",
+    "product_name": "Croustillant Chocolat",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c03bc717-8f46-4d59-af09-72039b3bc188",
+    "brands": "Coca-Cola",
+    "manufacturing_places": "Suisse,France",
+    "product_name": "",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "eabf06dd-d528-42a0-b3f0-7f2ea04d66be",
+    "brands": "Gerblé",
+    "manufacturing_places": "Revel (31250),Annoray,France",
+    "product_name": "Figue & son",
+    "product_quantity": 210,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "def8ed40-6a6a-4dfd-9547-e646bf817698",
+    "brands": "La Boulangère,La Boulangère Bio",
+    "manufacturing_places": "France",
+    "owner": "org-la-boulangere-co",
+    "product_name": "Pain De Mie Bio",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "4d985595-901b-4c46-95f9-8a4b751855b3",
+    "brands": "Mont Roucous",
+    "manufacturing_places": "Mont Roucou",
+    "product_name": "Eau minérale naturelle",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "f076dabe-6996-4558-be1a-815dfffb014e",
+    "brands": "Lindt,Lindt&Sprüngli",
+    "manufacturing_places": "France",
+    "product_name": "Bitter Extra Kraftig",
+    "product_quantity": 50,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "bb60dbb2-85c2-4826-bc56-f2eb1ce9657d",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": ""
+  },
+  {
+    "product_id": "ad400ae2-debf-4d7e-b667-cd57a10d6745",
+    "brands": "Hovis",
+    "manufacturing_places": "",
+    "product_name": "Seed Sensations",
+    "product_quantity": 800,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e1e285dd-c8cf-41c2-9735-f7ac99920042",
+    "brands": "Coca-Cola",
+    "manufacturing_places": "",
+    "product_name": "Coca-Cola",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "ac4b2b65-b399-4f8e-8ec0-a0ec47d5e1ce",
+    "brands": "Heinz",
+    "manufacturing_places": "",
+    "product_name": "Tomato Ketchup",
+    "product_quantity": 700,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b1892c59-9592-4762-b14b-38ccec75e614",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Moutarde 10.50 g"
+  },
+  {
+    "product_id": "66fb787e-c776-4c8d-b393-2fd8ce58da50",
+    "brands": "Parmentier",
+    "manufacturing_places": "",
+    "product_name": "Sardines Huile d'Olive Vierge Extra",
+    "product_quantity": "135",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6582f25c-7ce2-414c-8e4f-ae14ba4e1388",
+    "brands": "New York Bakery Co",
+    "manufacturing_places": "United Kingdom",
+    "product_name": "Bakery Co. 5 The Original Bagels",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "7f6b4189-6656-4e83-a046-c5c55052ab0f",
+    "brands": "Nestlé",
+    "manufacturing_places": "",
+    "owner": "org-nestle-france",
+    "product_name": "Nestlé Dessert",
+    "product_quantity": 205,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "af3e6155-05de-4871-96be-302518be9377",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "Croissance réduit en sucre",
+    "product_quantity": "500",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "a6ec5c33-a509-42ba-a98e-eb9fabea9fde",
+    "brands": "Ferrero,Nutella",
+    "manufacturing_places": "",
+    "product_name": "Nutella",
+    "product_quantity": 600,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e60ce0f5-233a-483e-9966-ab1359eebf9f",
+    "brands": "Lesieur",
+    "manufacturing_places": "",
+    "product_name": "Huile de table équilibrée riche en vitamines A,E,D3",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "183ffc06-1413-439d-b81a-ed82844d99aa",
+    "brands": "Milka",
+    "manufacturing_places": "",
+    "product_name": "Chocolat au lait",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "dd713e41-97b6-4aa5-b452-0cbf6cea0165",
+    "brands": "Bé",
+    "manufacturing_places": "",
+    "product_name": "Petit beurre",
+    "product_quantity": 60,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5180d487-a98f-4c7f-9a37-307c34d38b80",
+    "brands": "Mondelez International",
+    "manufacturing_places": "",
+    "product_name": "Philadelphia",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "928f70c2-c9b7-4340-b171-05725241401f",
+    "brands": "les Eaux Minérales d’Oulmes",
+    "product_name": "Eau minérale naturelle gazeuse"
+  },
+  {
+    "product_id": "b3acb6ef-4cc4-490e-858f-ca483211dea7",
+    "brands": "Coca-Cola",
+    "manufacturing_places": "Switzerland",
+    "product_name": "Coca Cola",
+    "product_quantity": 450,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "7934430e-99f6-45a7-a46b-f5a756422b61",
+    "brands": "Jaouda",
+    "product_name": "Beurre Frais Pasteurisé",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "be3f86e5-9ddd-4b31-bcad-b46fafb7d3a6",
+    "product_name": "jempo"
+  },
+  {
+    "product_id": "0398f99e-39ac-48cb-b4c5-c2fd87ff9bc8",
+    "brands": "Nestlé, Ricore",
+    "manufacturing_places": "France,Pontarlier,Villars",
+    "owner": "org-nestle-france",
+    "product_name": "RICORE Original",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e79fb36c-57c5-4ba1-8025-e938fec7c10c",
+    "brands": "Pasquier",
+    "manufacturing_places": "France",
+    "product_name": "Pains au lait x10",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d65d5dfa-dd1f-4388-bb23-3ed9cbb17daf",
+    "brands": "Heinz",
+    "manufacturing_places": "",
+    "product_name": "Tomato Ketchup",
+    "product_quantity": 460,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "24ebfdc6-28fa-490b-907e-f3c97e9f4130",
+    "brands": "Hellmann's",
+    "manufacturing_places": "",
+    "product_name": "Real Mayonnaise",
+    "product_quantity": "404",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "31ede477-c0bf-49c1-8bb3-5f75003b2a77",
+    "brands": "Deli Originals Fresh",
+    "manufacturing_places": "",
+    "product_name": "Granatapfel Sauerkirsche Fruchtgummi"
+  },
+  {
+    "product_id": "0899fba9-35f8-446a-9ff5-4851313a4ce6",
+    "brands": "La Boulangère",
+    "manufacturing_places": "France",
+    "owner": "org-la-boulangere-co",
+    "product_name": "Brioche Tranchée Bio 400g",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "f7fb4e41-9216-4591-b82a-b0b8d8a0355b",
+    "brands": "Yeo Valley Organic",
+    "product_name": "Yeo Valley Organic kefir natural fermented yogurt",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6acafbe1-6c4c-4dd7-ae52-866790cb5134",
+    "brands": "Barilla",
+    "manufacturing_places": "Italie,Italien",
+    "owner": "org-barilla-france-sa",
+    "product_name": "Pesto Rosso",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ec01d457-bf9c-485d-94a1-73358f9a25f3",
+    "brands": "Bertolli",
+    "product_name": "Vegetable Fat Spread with 10% Olive Oil",
+    "product_quantity": "450",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "bcec536e-518a-402d-b924-59bb8f15d4ad",
+    "brands": "Excelo",
+    "product_name": "King cookies choco"
+  },
+  {
+    "product_id": "79c21e51-d590-4e2d-9ee0-fa902e766415",
+    "brands": "Sunny Via",
+    "manufacturing_places": "France",
+    "product_name": "Sirop d'Agave",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c4f396b0-7975-4fa4-906d-1d3188cb43c4",
+    "brands": "Orangina Schweppes France,Pulco,Schweppes International Limited",
+    "manufacturing_places": "",
+    "product_name": "Pulco Citron",
+    "product_quantity": 700,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "92ca5bff-de34-4797-9911-af2c3b0ec968",
+    "brands": "Peripella",
+    "manufacturing_places": "",
+    "product_name": "Peripella",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "518bce14-744d-4412-abae-af59d161e1d0",
+    "brands": "Ethiquable",
+    "manufacturing_places": "France",
+    "owner": "org-ethiquable",
+    "product_name": "Beurre bio cacahuète",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c48d271d-007f-45f6-9f35-784cc3cbf083",
+    "brands": "alpro",
+    "manufacturing_places": "",
+    "product_name": "Vanille au soja",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1a9848c2-704e-4a77-988b-0b461f8d8d79",
+    "brands": "Weetabix",
+    "manufacturing_places": "Burton Latimer,Kettering,Northants,England,United Kingdom",
+    "product_name": "Weetabix produit à base de blé complet 100%",
+    "product_quantity": "430",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "48673c7a-59dc-4322-8683-787a91e30d04",
+    "brands": "Harvest Morn",
+    "manufacturing_places": "",
+    "product_name": "Wheat Bisks",
+    "product_quantity": "684",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0f461944-0fad-4456-aa07-4c08e2ac11a2",
+    "brands": "Vemondo",
+    "manufacturing_places": "Italie",
+    "product_name": "Almond drink Sugar-free",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "a50eea5d-7dd1-4439-9e40-2b97703f867a",
+    "brands": "Elle&Vire",
+    "manufacturing_places": "France,Grièges",
+    "product_name": "Carré Frais - Nature",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "35d43248-abab-418b-8d2e-1fdec04f5eb9",
+    "brands": "Lindt Excellence",
+    "manufacturing_places": "Allemagne",
+    "product_name": "Excellence Noir Subtil Doux 70% Cacao",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9aa9af7c-06e2-459c-a645-e1d6b110fd34",
+    "brands": "Bol&Bol",
+    "manufacturing_places": "",
+    "product_name": "Bol Bol Ketchup",
+    "product_quantity": 560,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "4c1bcb00-159d-463d-b670-4fa81d2e2a40",
+    "brands": "Ideal",
+    "product_name": "Tranches Au Goût Cheddar"
+  },
+  {
+    "product_id": "d61f5a2f-4cfb-4aa1-b37d-46835af1824b",
+    "brands": "La Fournée Dorée",
+    "manufacturing_places": "85150,Vendée,France,Pays de la Loire,La Mothe Achard",
+    "product_name": "La gâche tranchée",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "da470b99-7b14-4cc8-8d51-8db1913f6816",
+    "brands": "Hellmann's",
+    "manufacturing_places": "",
+    "product_name": "Mayonnaise",
+    "product_quantity": 750,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "2816e1eb-7acc-4621-aad5-a8dad1098f0a",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": "Yaourt tendre"
+  },
+  {
+    "product_id": "e2545a78-bbc3-4b56-be64-bb9b921ab172",
+    "brands": "Jibal"
+  },
+  {
+    "product_id": "af1cf4e0-a28c-49da-8ea3-ef8c62f4a3a6",
+    "brands": "Pringles",
+    "manufacturing_places": "Belgique",
+    "product_name": "Sour Cream & Onion",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "516e4880-961c-40ae-99d3-760c4dc39444",
+    "brands": "Tesco",
+    "product_name": "Rye & Mixed Seed Sourdough Bread",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "4608549c-854d-4ea9-bcf7-daa207d47691",
+    "brands": "Maple Joe",
+    "manufacturing_places": "Test",
+    "product_name": "Sirop d'érable ambré goût riche",
+    "product_quantity": "250",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ba75e96c-92e9-463f-82ed-d9584678cbbe",
+    "brands": "Nestlé, Maggi",
+    "manufacturing_places": "",
+    "owner": "org-nestle-france",
+    "product_name": "Arome MAGGI",
+    "product_quantity": 200,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "cb8bf6ec-faa3-4464-b276-356724efe5b8",
+    "brands": "Fage",
+    "manufacturing_places": "",
+    "product_name": "5% Greek Yogurt",
+    "product_quantity": 50,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "08a24531-cb98-4aed-93c1-0c7482cb8e8a",
+    "brands": "Dark Excellente",
+    "manufacturing_places": "",
+    "product_name": "Chocolat Noir 92% cacao",
+    "product_quantity": "100",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d860fb18-15f7-4f57-a4a9-4def49dac64c",
+    "brands": "Bjorg",
+    "manufacturing_places": "Allemagne",
+    "product_name": "Muesli Raisin, Figue, Abricot",
+    "product_quantity": 375,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "43beeed0-7270-4afc-89c4-506a5116f0d7",
+    "brands": "Coca-Cola Company",
+    "manufacturing_places": "",
+    "product_name": "Cappy pulpy"
+  },
+  {
+    "product_id": "7ec1b441-8523-46d1-9218-57fb9a9229bb",
+    "brands": "Specially Selected",
+    "product_name": "Seeded Sourdough Bread",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "dc3c4700-ceb0-4afe-b4e2-f89fe8f488cf",
+    "brands": "Menguy's",
+    "manufacturing_places": "France",
+    "owner": "org-menguy-s",
+    "product_name": "Menguy's Peanut 100%",
+    "product_quantity": 454,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a14ba0dc-3495-4c95-a640-56f5b226e613"
+  },
+  {
+    "product_id": "9dbd486f-94dc-4f59-a951-d0e5950f860b",
+    "brands": "Ferrero",
+    "manufacturing_places": "",
+    "product_name": "Nutella",
+    "product_quantity": 750,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "df9ad4de-8cd4-4f83-8b33-1db45267ff79",
+    "brands": "jaouda",
+    "manufacturing_places": "Maroc",
+    "product_name": "PRESSup ORANGE 1L",
+    "product_quantity": 950,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "f11d22a8-88e2-46cb-aaa7-6774bda4b982",
+    "brands": "Nestlé",
+    "manufacturing_places": "",
+    "product_name": "Nesquik",
+    "product_quantity": 390,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "98a0f6eb-f512-4b48-95ff-308971b9a0be",
+    "brands": "st hubert",
+    "manufacturing_places": "France",
+    "owner": "org-saint-hubert",
+    "product_name": "st hubert bio & végétal",
+    "product_quantity": 230,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "f4b14dd7-f807-4fb0-985d-4b9251bd490c",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Assaisonnement aromatisé au citron"
+  },
+  {
+    "product_id": "14ff213d-580d-4ca8-a57c-060b4d0d2026",
+    "brands": "Jordans",
+    "manufacturing_places": "Royaume-Uni",
+    "product_name": "Special Muesli 30% fruits & noix",
+    "product_quantity": 750,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "39ee29b1-914d-4ef2-bf2c-4b8c9106f971",
+    "brands": "La boulangere",
+    "manufacturing_places": "France",
+    "owner": "org-la-boulangere-co",
+    "product_name": "Tartines campagne 450g",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "81bcd634-f27b-4753-a698-7360e827d1a9",
+    "brands": "Rowse",
+    "manufacturing_places": "United Kingdom",
+    "product_name": "Runny Honey imp",
+    "product_quantity": "340",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d0a77886-804b-4e52-a3d0-0147b4edd72a",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": "Levure rafiaa"
+  },
+  {
+    "product_id": "1e99786c-1afe-40f5-b510-0df0ac564b1d",
+    "brands": "VIP",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "82fa3fe6-f4de-4359-9090-f8e04534dfdc",
+    "brands": "Jaouda",
+    "product_name": "Muscly la force pour grandir",
+    "product_quantity": 80,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "bc111a5c-774b-4b84-a71e-2446cd04d48a",
+    "brands": "Artesto",
+    "product_name": "Pâte d'arachide",
+    "product_quantity": "400",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "02526f62-271a-43d8-a5cc-f319635aa0f8",
+    "brands": "Pringles",
+    "manufacturing_places": "Belgique",
+    "product_name": "Pringles Sare",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c7f1ddeb-3b98-49f7-86a1-f190dc5f1289",
+    "brands": "ولماس ماء معدني غازي طبيعي",
+    "manufacturing_places": "",
+    "product_name": "Oulmès eau minerale naturellement gazeuse",
+    "product_quantity": "330",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "cb34d50f-51ee-4290-93b1-6566dd54c6fa",
+    "brands": "Tesco finest",
+    "manufacturing_places": "",
+    "product_name": "Ecuador dark chocolate",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "91b41c3a-1108-4cf4-b0eb-9a4d35ad0ded",
+    "brands": "lu, LU",
+    "manufacturing_places": "",
+    "product_name": "Cracotte Céréales Complètes",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "0f725e92-10d1-442d-b562-e925315ab36b",
+    "brands": "Olla",
+    "manufacturing_places": "",
+    "product_name": "Olla",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d986703c-fd25-4cc7-b7c8-bd02aa1ec964",
+    "brands": "Flora",
+    "manufacturing_places": "",
+    "product_name": "Flora Buttery",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ee71764f-680e-44bf-b8ea-e1608e513216",
+    "brands": "Lidl,Maître Jean Pierre",
+    "manufacturing_places": "Allemagne",
+    "product_name": "pain de mie grandes tranches spécial sandwich complet",
+    "product_quantity": 750,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "7b404c7e-93e3-4ffc-8be2-fcfc6770ff7a",
+    "brands": "LU",
+    "manufacturing_places": "vervins france",
+    "product_name": "Cracotte",
+    "product_quantity": 7.35,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8b4fc8f2-0d1a-4a3d-af5a-19668e890e70",
+    "brands": "Gerblé",
+    "manufacturing_places": "31250 Revel",
+    "product_name": "Biscuit raisins",
+    "product_quantity": 270,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "68f7eb22-5a3a-44b3-aef0-f9f795c01a1b",
+    "brands": "Lotus",
+    "manufacturing_places": "",
+    "product_name": "Biscoff Creamy",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b9cfbf4e-ba19-4e7b-853c-e517c5c0adb5",
+    "brands": "LU, Mondelez International",
+    "manufacturing_places": "France",
+    "product_name": "Granola L'Original",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "99d64b74-95d5-4045-89b4-9ecb73259078",
+    "product_name": "6111266962446"
+  },
+  {
+    "product_id": "eb248bcc-e2f3-42a6-b3c7-e91766c14880",
+    "brands": "Milbona, Pilos",
+    "manufacturing_places": "Deutschland",
+    "product_name": "Greek Style Yogurt",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0fb2be28-1b8e-40c7-862a-4732f08422b3",
+    "brands": "Aicha",
+    "manufacturing_places": "",
+    "product_name": "Concentré de tomates Aicha",
+    "product_quantity": 370,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "46f3a4e1-2fd5-46fa-af82-6a2b54a0816f",
+    "brands": "BN",
+    "manufacturing_places": "France,Vertou",
+    "product_name": "Biscuits goût chocolat",
+    "product_quantity": 285,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "cebd5b38-fafa-465e-986a-09e0cf46dbe0",
+    "brands": "Heinz",
+    "manufacturing_places": "",
+    "product_name": "Seriously Good Times Mayonnaise",
+    "product_quantity": 775,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "85226ffe-b888-468b-862f-2e2b03ebf9d8",
+    "brands": "Whole earth",
+    "manufacturing_places": "Kallo Foods Ltd,2 River View,Surrey,GU17 9AB,United Kingdom",
+    "product_name": "Crunchy Peanut Butter",
+    "product_quantity": 454,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "074751d6-9630-49ab-9543-9486863a05fc",
+    "brands": "Kallø",
+    "manufacturing_places": "Spain",
+    "product_name": "Organic Chicken Stock Cubes 8 Pack",
+    "product_quantity": 88,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d1fee129-6320-4b6b-ad9d-1018da4301c4",
+    "brands": "Alesto, Lidl, Lidl Alesto",
+    "manufacturing_places": "Deutschland",
+    "product_name": "Brazil Nuts",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "bc1f7a61-746b-43ed-827b-250cc23c60bd",
+    "brands": "Arla",
+    "manufacturing_places": "Germany",
+    "product_name": "Skyr | Natural Fat Free | 0% Fat",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "47f707a6-f21d-4366-a031-586cdc97ea4b",
+    "brands": "Kettle",
+    "manufacturing_places": "",
+    "product_name": "Chips"
+  },
+  {
+    "product_id": "ee729f54-f69c-4a8e-9a28-1be64b055583",
+    "brands": "DANONE",
+    "manufacturing_places": "El Jadida Morocco",
+    "product_name": "",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "8c458ca3-2d65-4da2-8272-fd405d02f7da",
+    "brands": "Jibal",
+    "manufacturing_places": "lait",
+    "product_name": "",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "2ec303b0-8709-440e-8c65-fb6100750412",
+    "brands": "Maille",
+    "owner": "org-unilever-france-gms",
+    "product_name": "Maille Moutarde Fine de Dijon L'Originale Bocal 360g",
+    "product_quantity": 360,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1fb9ed67-d5bf-47e5-a062-e99761222810",
+    "brands": "Barilla,Wasa",
+    "manufacturing_places": "Allemagne",
+    "owner": "org-barilla-france-sa",
+    "product_name": "wasa",
+    "product_quantity": 270,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "40204b4c-d016-4d4d-8139-958e5d65a99b",
+    "brands": "McVitie's",
+    "manufacturing_places": "",
+    "product_name": "digestives",
+    "product_quantity": 360,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a944db69-7982-4808-a5b7-845fab8ba131",
+    "brands": "Henrys",
+    "manufacturing_places": "Casablanca",
+    "product_name": "Henry's Sable Coco Biscuit 85G",
+    "product_quantity": 85,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ffc56fe2-f33c-437a-b67c-8995d97e174c",
+    "brands": "Quaker",
+    "manufacturing_places": "",
+    "product_name": "Quaker Rolled Oats",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0e22fbe7-f767-4699-9075-c5119c983ecc",
+    "brands": "Nestlé",
+    "manufacturing_places": "France",
+    "owner": "org-nestle-france",
+    "product_name": "Ricoré original",
+    "product_quantity": 260,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d0dab2c8-a6e8-4e75-9a63-3ebee2ad4838",
+    "brands": "Delicia",
+    "manufacturing_places": "Morocco",
+    "product_name": "Delicia double concentre de tomates",
+    "product_quantity": "380",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "249d3078-1458-43e7-ae32-a9dfbc4fb36b",
+    "brands": "Menguy's",
+    "manufacturing_places": "France",
+    "owner": "org-menguy-s",
+    "product_name": "Menguy's Beurre de cacahuètes creamy",
+    "product_quantity": 454,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "cb951f17-222e-4873-ab28-e4db218981db",
+    "brands": "Nature Valley",
+    "manufacturing_places": "",
+    "product_name": "Protein Cacahuetes🥜 & Chocolat🍫",
+    "product_quantity": 160,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d023745e-eb02-4721-924f-f0d2a2b1b3a2",
+    "brands": "Harry's",
+    "manufacturing_places": "France",
+    "owner": "org-barilla-france-sa",
+    "product_name": "100% mie complet 500g",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "14bcac6e-07e6-4f0c-8b17-92b4be3059df",
+    "product_name": "Mayfine",
+    "product_quantity": "180",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "24a6302b-053d-4b49-bc2d-f06309fa86fa",
+    "brands": "Nestlé",
+    "manufacturing_places": "",
+    "product_name": "Nesquik Cocoa",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1ac1bfc2-ecaf-4d8b-8067-c6343bb25ecf",
+    "brands": "Kallø",
+    "product_name": "Lightly Salted Low Fat Corn Cakes"
+  },
+  {
+    "product_id": "f6fe849c-c3f8-423f-8e1f-944a047ca5a8",
+    "brands": "Bjorg",
+    "manufacturing_places": "France",
+    "product_name": "Nutri+ avoine chocolat",
+    "product_quantity": 130,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e7279dce-fbe5-4843-a983-6efdc072e35f",
+    "brands": "Cuétara, Krit",
+    "manufacturing_places": "Spain",
+    "product_name": "Krit krititas galletas saladas",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "991293ac-7a3f-41bc-b4ba-b730ef0d2840",
+    "brands": "Jason's",
+    "product_name": "Everyday White Rolls",
+    "product_quantity": 320,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fc591aa8-4ad7-4b33-9b0d-14c8f346cb2f",
+    "brands": "Jardin Bio",
+    "manufacturing_places": "",
+    "product_name": "Tartines craquantes quinoa - pois chiche"
+  },
+  {
+    "product_id": "ca11fa29-fbf1-4336-a221-4f37e97980a1",
+    "brands": "Bonne Maman",
+    "manufacturing_places": "France",
+    "product_name": "Strawberry Jam",
+    "product_quantity": 370,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c65a1b61-a1ec-4a52-abcf-4662e47d6389",
+    "brands": "LUMondelez",
+    "manufacturing_places": "Non précisé",
+    "product_name": "Figolu",
+    "product_quantity": 192,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "27cae951-de67-4659-b991-140434fe6874",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Star Mayonnaise",
+    "product_quantity": "330",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "33db79ee-9249-45b1-8ef8-a02b3c85b284",
+    "brands": "Harrys",
+    "manufacturing_places": "",
+    "owner": "org-barilla-france-sa",
+    "product_name": "Harrys brioche tressee nature au sucre perle sans additifs 500g",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6624a9b3-1389-4d79-a037-98b8e0fc79aa",
+    "brands": "Bjorg",
+    "manufacturing_places": "Italie",
+    "product_name": "BjORG AMANDE ALMOND SANS SUGRES- NO SUGAR",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "40e80191-4e98-4278-9445-5e8f715d26db",
+    "brands": "Warburtons",
+    "manufacturing_places": "",
+    "product_name": "Crumpets",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "cd7fa2de-218b-4e03-b793-ddb536198552",
+    "brands": "Le Fromage Fouetté Madame Loïk, Paysan breton",
+    "manufacturing_places": "Créhen,Côtes d'Armor,France,22134 CREHEN,22130 CREHEN",
+    "owner": "org-laita",
+    "product_name": "Paysan Breton - Le Fromage Fouetté Madame Loïk - Nature au Sel de Guérande",
+    "product_quantity": 180,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ffc2c9e0-08d0-4f7e-9952-711231d7cccb",
+    "brands": "Engevita",
+    "manufacturing_places": "",
+    "product_name": "Nutritional Yeast Flakes",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c80e409b-b13a-4a15-87fa-fd3449de538f",
+    "brands": "VIP",
+    "product_name": "Vip crema gold",
+    "product_quantity": 80,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e134ceb4-09ad-4e0d-a1f9-f509efbb79bc",
+    "brands": "Ain ifrane",
+    "manufacturing_places": "Ben Smim,Ifran",
+    "product_name": "Aïn Ifran Eau minérale naturelle",
+    "product_quantity": 5000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "63faf067-ca3e-4a67-8c80-bea8496dba0d"
+  },
+  {
+    "product_id": "cb80c96c-e5f7-4d17-a7bd-b96994c4e510",
+    "brands": "ProActiv",
+    "manufacturing_places": "",
+    "product_name": "ProActiv Margarine Tartine",
+    "product_quantity": 225,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "83bbe65c-b27f-41eb-a08b-6488e9e35459",
+    "brands": "Jaouda",
+    "manufacturing_places": "",
+    "product_name": "flan caram jao dan",
+    "product_quantity": 85,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "55376a1a-3364-4a8f-8de5-d5efe5fead79",
+    "brands": "Biotiful gut health",
+    "manufacturing_places": "",
+    "product_name": "kefir drink original",
+    "product_quantity": "500",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "0a4a0489-fb4f-4598-ac7a-cec0d1cb387b",
+    "product_name": "41022"
+  },
+  {
+    "product_id": "ada5f25d-3c6c-48d3-8bc0-c5b42d3d0042",
+    "brands": "Sidi ali",
+    "manufacturing_places": "",
+    "product_name": "Eau minerale",
+    "product_quantity": 750,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "de38a622-140d-4736-99b9-3c4d133fc600",
+    "brands": "The Coconut Collab",
+    "manufacturing_places": "UK",
+    "product_name": "Fermented Coconut Yoghurt Alternative",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "f2484ac5-aba6-45d3-85de-942b03a21e29",
+    "brands": "Storck",
+    "manufacturing_places": "Nemčija,Berlin,Deutschland",
+    "product_name": "",
+    "product_quantity": 125,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "07106e54-a459-40bd-9191-10d979bac533",
+    "brands": "Alpro",
+    "manufacturing_places": "",
+    "owner": "org-danone-gmbh",
+    "product_name": "Natur mit Kokosnuss",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d591a681-fe3d-4a88-92e0-0234a7287e4e",
+    "brands": "حلال",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "394fdf4d-ed65-4155-be01-e9a44033eca1",
+    "brands": "Nature ValleyGeneral Mills",
+    "manufacturing_places": "Espagne",
+    "product_name": "Crunchy avoine et miel",
+    "product_quantity": 210,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9abfe760-ed20-4bae-9324-2dd10c609ca2"
+  },
+  {
+    "product_id": "01bef51f-ae60-4b78-a381-27c0545b1da7",
+    "brands": "Gerblé,Gerblé Vitalité,Nutrition & Santé",
+    "manufacturing_places": "France,Revel",
+    "product_name": "Biscuit lait chocolat",
+    "product_quantity": 230,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "18905275-aaf0-4f3b-a6d4-49e21e137b89",
+    "brands": "Kiri",
+    "manufacturing_places": "",
+    "product_name": "Kiri carré 8p",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "d2b2c9c2-8720-4ce9-a266-ab03a41a1eb6",
+    "brands": "perly",
+    "product_name": "Perly fromage"
+  },
+  {
+    "product_id": "bfe1f4c5-a57e-40ac-9ad2-690c3b38a13c",
+    "brands": "Fage",
+    "product_name": "Fage Total 0% Yogurt",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b8947ce4-6dfd-4580-a3dd-be4292ee360e",
+    "brands": "Bjorg",
+    "manufacturing_places": "Allemagne",
+    "product_name": "Muesli SuperFruits Raisins, cassis,cranberry, myrtille",
+    "product_quantity": 375,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a2137ba1-32ef-410e-8c58-1925d199109f",
+    "brands": "maroc",
+    "manufacturing_places": "",
+    "product_name": "Coca-Cola original taste",
+    "product_quantity": 250,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "227be578-0052-44ac-8940-d6e1d294ad29",
+    "brands": "Sainsbury's taste the difference",
+    "manufacturing_places": "",
+    "product_name": "MULTISEED WHOLEMEAL FARMHOUSE LOAF",
+    "product_quantity": "800",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c67bfd68-24cd-4563-a1f0-77e94b3c96a0",
+    "brands": "Bjorg",
+    "manufacturing_places": "France",
+    "product_name": "P'tit Nature Complet",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "475841bf-9e58-4c16-bf78-2b55b5332804",
+    "brands": "زيت الزيتون واد سوس",
+    "product_name": "Hule D'olive",
+    "product_quantity": "500",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "fee9a12c-87e6-4959-a617-37e66d1c29e2",
+    "brands": "Oatly",
+    "manufacturing_places": "EU",
+    "product_name": "Haferdrink Barista",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "f27fdd9b-8a19-49da-9683-89643ad0de45",
+    "brands": "Delicia",
+    "manufacturing_places": "Morocco",
+    "product_name": "Délicia - Confiture d'abricot",
+    "product_quantity": 830,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0df6c590-405e-4dd2-b674-310fab227dc2",
+    "brands": "Primevère",
+    "manufacturing_places": "",
+    "product_name": "Tartine doux",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "79ced15f-6aa8-49a7-a2a6-4f119fe1d158",
+    "brands": "Azura",
+    "manufacturing_places": "Dakhla,Sahara Occidental",
+    "product_name": "Tomates cerises allongées",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9bae7a14-f41e-49d1-a3c5-cc96b4ac0bb2",
+    "brands": "",
+    "manufacturing_places": "",
+    "product_name": ""
+  },
+  {
+    "product_id": "e3fd5176-1d75-44d9-b140-e9101b172187",
+    "brands": "Kellogg's",
+    "manufacturing_places": "Espagne",
+    "owner": "org-kellogg-s",
+    "product_name": "Corn Flakes",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "43ec33dd-bdfb-4cce-8d80-bf0a33706de2",
+    "brands": "Gerblé",
+    "manufacturing_places": "France",
+    "product_name": "Cookie🍪 cacao pépites Sans Sucre",
+    "product_quantity": 130,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a3e964c0-58e4-4c1f-a2a2-c80d7f6d017b",
+    "brands": "St Hubert, St hubert omega 3",
+    "manufacturing_places": "Ludres,54710,Lorraine,France",
+    "owner": "org-saint-hubert",
+    "product_name": "Oméga 3® Doux",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9cc37c08-83ae-4d8b-9a0f-2302f9091b4d",
+    "brands": "Danone",
+    "manufacturing_places": "",
+    "product_name": "Yaourt Nature",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "50530f92-1a4d-44e9-97da-572f4a6439d5",
+    "brands": "Pringles",
+    "manufacturing_places": "",
+    "product_name": "Картофельные чипсы со вкусом парики",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "349de154-f3b6-4b36-a969-38dfa4b24c47",
+    "brands": "Lindt",
+    "manufacturing_places": "Suisse",
+    "product_name": "Excellence Noir Corsé 78% Cacao",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "da9ad351-3de4-4a57-ac39-618f5d745085",
+    "brands": "Harrys",
+    "manufacturing_places": "France",
+    "owner": "org-barilla",
+    "product_name": "Brioche moins de sucre",
+    "product_quantity": 485,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c41c8c00-9a62-4351-b1dc-b0e32f1c4613",
+    "brands": "Jason's",
+    "manufacturing_places": "",
+    "product_name": "No. 6 Sourdough Majestic Malted",
+    "product_quantity": "450",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "63a6c69d-53c5-4d83-85d9-65670ea269ac",
+    "brands": "belvita",
+    "manufacturing_places": "",
+    "product_name": "petit déjeuner miel et pépites de chocolat",
+    "product_quantity": 435,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1fdcba2d-db14-48ca-981b-b418954ca6af",
+    "brands": "Primadonna",
+    "manufacturing_places": "Espagne",
+    "product_name": "Huile d'olive vierge extra",
+    "product_quantity": "1000",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "dd7608c0-f8c4-4ee1-ade8-c12b5df56373",
+    "brands": "McVitie's,United Biscuits",
+    "manufacturing_places": "Royaume-Uni",
+    "product_name": "Sablés Anglais L'Original",
+    "product_quantity": "400",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8696cf79-6e5b-4660-8401-1e6e256397c3",
+    "brands": "Poulain",
+    "manufacturing_places": "",
+    "owner": "org-carambar-co",
+    "product_name": "Pâte à tartiner",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9117bc7b-3ac4-43ca-bc16-e95e85e18a35",
+    "brands": "Fleury Michon",
+    "manufacturing_places": "",
+    "product_name": "Les tranches Végé - lentilles corail",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "8c8e340c-a467-4947-953c-db6123bdcafe",
+    "brands": "Heudebert",
+    "manufacturing_places": "Granville,Normandie,France",
+    "product_name": "Biscottes 6 Céréales",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ff732e59-4cc5-4425-a86b-f67400a8947d",
+    "brands": "La Boulangère",
+    "manufacturing_places": "France",
+    "owner": "org-la-boulangere-co",
+    "product_name": "Pain de mie Bio grandes tranches céréales & graines 500g",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d5582554-9c9a-4281-8da3-a6b05a511479",
+    "brands": "General Mills,Nature Valley",
+    "manufacturing_places": "Espagne",
+    "product_name": "Crunchy Avoine & Chocolat Noir x 5 x 2 barres de 21 g",
+    "product_quantity": 210,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "47ba394e-9376-4b7b-89c1-3b5036e18640"
+  },
+  {
+    "product_id": "033c5bb3-a6be-4793-a12c-cde84da8fcff",
+    "brands": "Ferrero",
+    "manufacturing_places": "",
+    "owner": "org-ferrero-france-commerciale",
+    "product_name": "Pâte à tartiner Nutella noisettes et cacao - 750g",
+    "product_quantity": 750,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ff67f2cf-a8a4-490a-97c1-3072e102432d",
+    "brands": "LU Pelletier",
+    "manufacturing_places": "France",
+    "product_name": "Pain grillé au blé complet",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "35c5a71a-a251-44a5-a65f-a898e4ba3ac1",
+    "brands": "Alvalle",
+    "manufacturing_places": "Espagne",
+    "owner": "org-pepsico-france",
+    "product_name": "Alvalle Gazpacho l'original",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "99dc0028-7d7b-4de3-8cf1-34c2ff476e89",
+    "brands": "Specially Selected",
+    "manufacturing_places": "",
+    "product_name": "Dark Rye Sourdough",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "aab62258-dd31-4801-a896-373a0830dfa3",
+    "brands": "Amora",
+    "manufacturing_places": "Dijon",
+    "owner": "org-unilever-france-gms",
+    "product_name": "Amora Moutarde Forte Bocal 430g",
+    "product_quantity": 430,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1da815fd-1326-4f7d-90a3-5ee0e105f621",
+    "brands": "Star moutarde de Dijon",
+    "manufacturing_places": "",
+    "product_name": "Star moutarde"
+  },
+  {
+    "product_id": "354acb4a-f837-4b02-996d-956880e184d7",
+    "brands": "Ramona's",
+    "product_name": "Ramona's Heavenly Houmous",
+    "product_quantity": "500",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "7b7f6c4d-24b4-4135-8fe0-7db9f6b51463",
+    "brands": "Yeo Valley",
+    "manufacturing_places": "",
+    "product_name": "Organic Natural Yoghurt",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "abc310e2-38f8-4697-8743-9a55f079b530",
+    "brands": "Tesco",
+    "manufacturing_places": "",
+    "product_name": "Dark milk chocolate",
+    "product_quantity": "100",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b7bbdc2f-3b1b-47e2-9e92-1639d6c50abf",
+    "brands": "Gerblé",
+    "manufacturing_places": "France",
+    "product_name": "Biscuit soja orange",
+    "product_quantity": 280,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "dd48749f-108a-4233-8040-20725384b175",
+    "brands": "Pringles",
+    "manufacturing_places": "",
+    "owner": "org-kellogg-s",
+    "product_name": "Pringles",
+    "product_quantity": 40,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1087eaad-948a-40c9-ba39-8bd1f2ca8e92",
+    "brands": "Evian",
+    "manufacturing_places": "France",
+    "product_name": "Eau minérale naturelle",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "767fc3b7-f7c3-414b-947d-e9c8053e3bcd",
+    "brands": "Bjorg",
+    "manufacturing_places": "France",
+    "product_name": "Fourrés Chocolat au Lait",
+    "product_quantity": 225,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "02241057-a5d8-4b3c-a10d-081fc74460ec",
+    "brands": "Macao",
+    "product_name": "Chocolat monogram"
+  },
+  {
+    "product_id": "aa3e4b6f-86bb-4879-a158-66b76a0f27c1",
+    "brands": "Aicha",
+    "manufacturing_places": "",
+    "product_name": "Double concentré de tomates",
+    "product_quantity": 105,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5f1b01c0-20bf-4f18-ac5a-1bd57b8a0f1b",
+    "brands": "Oasis,Orangina Schweppes France",
+    "manufacturing_places": "",
+    "product_name": "PET 2L OASIS TROPICAL",
+    "product_quantity": 2000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "8812cc2f-cb51-48c4-a62b-f53e2b065483",
+    "brands": "Van Houten",
+    "manufacturing_places": "",
+    "product_name": "Cacao en Poudre Non Sucré",
+    "product_quantity": 255,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9d4aedbf-cb83-4405-bc74-cf05f55e7688",
+    "brands": "Heinz",
+    "manufacturing_places": "",
+    "product_name": "Tomato Ketchup BIO",
+    "product_quantity": 580,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0966779d-0c51-4fac-ac5d-f18b4141469f",
+    "brands": "efor",
+    "manufacturing_places": "",
+    "product_name": "vinaigre de table blanc",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "ee7e9e39-92e3-4821-8d1a-a90800f6ba0c",
+    "brands": "Nestlé, Nesquik",
+    "manufacturing_places": "France",
+    "owner": "org-nestle-france",
+    "product_name": "NESQUIK Moins de Sucres",
+    "product_quantity": "350",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "7f6845b2-36b5-48dd-af2c-ce7c186fd878",
+    "brands": "Danette",
+    "manufacturing_places": "",
+    "product_name": "Danette chklat"
+  },
+  {
+    "product_id": "33eccec8-f45e-4bc2-9951-ce0900af1dad",
+    "brands": "Cassegrain",
+    "manufacturing_places": "France",
+    "owner": "org-bonduelle-europe-long-life",
+    "product_name": "Ratatouille Cuisinée à la Provençal",
+    "product_quantity": 380,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1d4bd2dc-7927-4fa2-ae0d-a9eecd6e63ec",
+    "brands": "Brooklea",
+    "manufacturing_places": "",
+    "product_name": "Authentic Greek Yogurt",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "211c7ec2-f4b4-4a5d-8a28-c9731e26e0e0",
+    "product_name": "Press up"
+  },
+  {
+    "product_id": "f5b05587-6548-4bd5-a59a-98f947ae3c26",
+    "product_name": "AQUAFINA"
+  },
+  {
+    "product_id": "dfe511a3-f93c-4b89-b83b-466e7710f779",
+    "brands": "Danone",
+    "product_name": "double zéro Cerise",
+    "product_quantity": 0
+  },
+  {
+    "product_id": "8fa6db16-5aca-4caa-afcc-6112197aaa88",
+    "brands": "Jordans",
+    "manufacturing_places": "Royaume Uni,Angleterre,Bedfordshire",
+    "product_name": "Country Crisp 4 noix",
+    "product_quantity": 550,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "889e2311-162f-42d1-bb3e-0b894a4db26c",
+    "brands": "Quaker",
+    "manufacturing_places": "",
+    "owner": "org-pepsico-france",
+    "product_name": "Flocons d'avoine complète",
+    "product_quantity": 550,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "129c29fa-840f-4c27-8925-eee09d6dc8f3",
+    "brands": "Tesco Finest",
+    "manufacturing_places": "",
+    "product_name": "White Sourdough",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "04838d34-c14e-49f8-a3ad-6a8d8b34e934",
+    "brands": "Sprite",
+    "manufacturing_places": "Casablanca",
+    "product_name": "Sprite",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "e266791f-8957-45cc-a7ce-8eebd08d7a09",
+    "brands": "Alesto",
+    "manufacturing_places": "Strasbourg,France",
+    "product_name": "",
+    "product_quantity": "200",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "f3e2ca6d-83c2-45de-95ee-0eb0c174e358",
+    "brands": "Leroux",
+    "manufacturing_places": "84 rue François Herbo,59310 ORCHIES,FRANCE",
+    "owner": "org-leroux",
+    "product_name": "Chicorée soluble nature",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "812a0141-8dca-4d20-a992-9850f1e28f53",
+    "brands": "Isabel",
+    "manufacturing_places": "Morocco,Agadir,Anza,",
+    "product_name": "Atun",
+    "product_quantity": 240,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "520df918-0bf4-4503-a688-8a9a23d45f3b",
+    "brands": "Star",
+    "manufacturing_places": "",
+    "product_name": "Star moutarde 200 g"
+  },
+  {
+    "product_id": "8c53d360-425a-4f5e-b8d2-847dae5ecb43",
+    "brands": "ice",
+    "product_name": "ice",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "4b05de2e-acf0-470f-9a12-99afa324af32",
+    "brands": "Kellogg's, Pringles",
+    "product_name": "Pringles Original",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "4f4768e3-be1d-47f8-98e0-b582a03b819c",
+    "brands": "Tesco",
+    "manufacturing_places": "",
+    "product_name": "Chickpeas In Water",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a7022cc5-cf14-4f09-a887-d2cb0793f83b",
+    "brands": "Nestlé, Ricoré",
+    "manufacturing_places": "Nestlé France (MNF) - Zone Louis Delaporte - 76370 Rouxmesnil-Bouteilles,Seine-Maritime,Haute-Normandie,France",
+    "owner": "org-nestle-france",
+    "product_name": "Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",
+    "product_quantity": 260,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "46b627a1-c465-41e5-b922-4a85c399dead",
+    "brands": "Aiguebelle",
+    "product_name": "Caobel"
+  },
+  {
+    "product_id": "a60a53be-70fd-473b-84ad-456a9e5ee4df",
+    "brands": "St Môret",
+    "manufacturing_places": "France",
+    "product_name": "St Môret",
+    "product_quantity": 150,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9a8edcbd-c151-4f60-92ad-fddde554eec0",
+    "brands": "Idéal",
+    "manufacturing_places": "Morocco,lissasfa,Casablanca",
+    "product_name": "Cacao",
+    "product_quantity": 35,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "06e8692d-1548-45ed-b33d-3b55e5103146",
+    "brands": "dorset cereals",
+    "manufacturing_places": "",
+    "product_name": "simply nutty muesli",
+    "product_quantity": "560",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a0c38146-3f93-40ee-94a2-d3d797a1ebd5",
+    "brands": "Aicha",
+    "product_name": "Aicha Tomato Paste"
+  },
+  {
+    "product_id": "f92603c0-9bbd-4be9-921c-e1f5556e09e7",
+    "brands": "Joly",
+    "product_name": "Joly Thon Entier"
+  },
+  {
+    "product_id": "d6a55c9d-5f15-40be-a637-c10abe112d4f",
+    "brands": "Crosta & Mollica",
+    "manufacturing_places": "",
+    "product_name": "Organic Piadina 4 Wholeblend Flatbreads with Extra Virgin Olive Oil",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "bf656773-41a2-4784-9126-7b1bb00eb23d",
+    "brands": "Kallø",
+    "manufacturing_places": "",
+    "product_name": "Lentil & Pea Veggie Cakes - Beetroot & Balsamic",
+    "product_quantity": 122,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c9cab304-0819-4e8d-8be2-1dec64f6e2b1",
+    "brands": "COPAG",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 90,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5e5064ec-f9f7-412f-9df6-45907cb5ac80",
+    "brands": "Nestlé, Le chocolat",
+    "manufacturing_places": "France",
+    "owner": "org-nestle-france",
+    "product_name": "Le Choco",
+    "product_quantity": "500",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "27922738-2a47-4c77-acf4-2b54a7e8c0b8",
+    "brands": "Danone",
+    "manufacturing_places": "",
+    "product_name": "",
+    "product_quantity": 80,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "2a32c9a3-bad0-4ddc-bddd-8ac2702d47f3",
+    "brands": "Huilor",
+    "manufacturing_places": "",
+    "product_name": "Houilor",
+    "product_quantity": "2000",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "bbacb4ee-f6c4-4b9b-87bb-3c3d14011a35",
+    "brands": "Maïzena, Unilever",
+    "manufacturing_places": "",
+    "owner": "org-unilever-france-gms",
+    "product_name": "Maizena Fleur de Maïs Sans Gluten 400g",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "f16d71b8-dec8-4916-9e47-d5aef3f73e9e",
+    "brands": "Warburtons",
+    "product_name": "Wholemeal bread 54kcal"
+  },
+  {
+    "product_id": "ee610cfb-1e88-455e-892a-5eabed1b5bcc",
+    "brands": "Danone",
+    "manufacturing_places": "Morocco",
+    "product_name": "Dan up",
+    "product_quantity": 170,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "60e5d5b4-8734-492d-84ff-a3c2da05ef77",
+    "brands": "Maître Jean Pierre",
+    "manufacturing_places": "France",
+    "product_name": "Petit Pains Grillés Blé complet",
+    "product_quantity": 225,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fc71c64b-de2b-43bc-b4b8-bdbbea7e3825",
+    "brands": "Stokes",
+    "manufacturing_places": "",
+    "product_name": "Real Mayonnaise",
+    "product_quantity": 345,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ef13ffc5-8adc-43c4-a520-32d9964f19da",
+    "brands": "Côte D’Or, Mondelez",
+    "manufacturing_places": "",
+    "product_name": "180G C OR NOIR NOISETTE",
+    "product_quantity": 180,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "29805bd8-8f6c-47b9-84be-5d4824845d6a",
+    "brands": "Sodebo",
+    "manufacturing_places": "",
+    "product_name": "Salade & Compagnie Manhattan Poulet Roti",
+    "product_quantity": 320,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "805977a9-9dcf-4ff4-8201-c22262031db4",
+    "brands": "Pure Via",
+    "manufacturing_places": "",
+    "product_name": "Poudre stevia",
+    "product_quantity": "250",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9d3a7462-eeb7-4a2d-b651-84a5b5dbeadf",
+    "brands": "la boulangère",
+    "manufacturing_places": "Vendée,Pays de la Loire,France",
+    "owner": "org-la-boulangere-co",
+    "product_name": "Pain de mie grandes tranches Toastiligne complet",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "3b08a32c-967d-44a2-a213-ab82b7b4ccda",
+    "brands": "Ferrero",
+    "manufacturing_places": "",
+    "product_name": "nutella",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "7193a3d6-720f-4af0-8425-432b4844e490",
+    "brands": "Délicia",
+    "manufacturing_places": "Agadir",
+    "product_name": "Delicia",
+    "product_quantity": 240,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6a9dacf9-acc4-4ef9-b94a-0ab19649a141",
+    "brands": "Danone",
+    "product_name": "Danone (zéro sucre ajouté zéro matière grasse)",
+    "product_quantity": 105,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8a1d5379-60ba-4cf5-89b5-b826fab7034d",
+    "brands": "Kerrygold",
+    "manufacturing_places": "Ireland",
+    "product_name": "Pure Irish Butter",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "80f744e8-dfc7-43ee-acf2-dd581de00e97",
+    "brands": "Meridian, Meridian Foods",
+    "manufacturing_places": "United Kingdom",
+    "product_name": "Crunchy Peanut Butter",
+    "product_quantity": 280,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d4ca001a-311c-41e4-b403-0ed997062b8e",
+    "brands": "nakd",
+    "manufacturing_places": "",
+    "owner": "org-lotus-bakeries",
+    "product_name": "Barres de fruits secs & noix Myrtilles",
+    "product_quantity": "140",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "03cd882f-6e17-4f04-825b-2d81aeb1b000",
+    "brands": "Nestlé",
+    "manufacturing_places": "",
+    "product_name": "Bitesize shredded wheat",
+    "product_quantity": 720,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "32d050a8-201a-4e16-8852-6eae8f31129a",
+    "brands": "Nakd",
+    "owner": "org-lotus-bakeries",
+    "product_name": "Protein Cocoa Hazelnut Bars",
+    "product_quantity": "135",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "21097f28-2d7b-4360-9a09-16d4c73c534a",
+    "brands": "Dark Excelente",
+    "product_name": "Chocolate Negro",
+    "product_quantity": "100",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "72794d46-52a6-4c84-9aba-1b28219bf73d",
+    "brands": "Flora",
+    "product_name": "Vegan Spread",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "dadaf9d7-c173-49f1-9418-bbf982ccf6f9",
+    "brands": "Gerblé",
+    "manufacturing_places": "",
+    "product_name": "Goûter 4S Saveur pommes",
+    "product_quantity": 360,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1b2dd9c3-8698-4199-87d1-eb465da2e6c8",
+    "brands": "Hellmann's",
+    "manufacturing_places": "United Kingdom",
+    "product_name": "Majoneesi",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a24a1ce3-1c19-4eb4-832d-18e5a6b0d4ad",
+    "brands": "Materne, POM'POTES, Sans sucres ajoutés",
+    "manufacturing_places": "France,Aisne",
+    "owner": "org-materne",
+    "product_name": "POM'POTES Compotes Gourdes Pomme Nature 1x90g",
+    "product_quantity": 90,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "931b5a23-3006-4dde-936f-16a162f38000",
+    "brands": "St Michel",
+    "manufacturing_places": "France",
+    "product_name": "Petites Madeleines",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "295c87a8-8ffe-4795-984f-70e6ae8de70c",
+    "brands": "Lucien Georgelin",
+    "manufacturing_places": "Sud-Ouest,France,Sud-Ouest de la France",
+    "product_name": "Pâte à tartiner noisette du Lot et Garonne cacao",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0c44cf5a-5bdf-461b-982c-9452f4c15103",
+    "brands": "Eau Minérale",
+    "manufacturing_places": "",
+    "product_name": "Ain Saiss",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "dfebe4b6-60a7-4ccc-b6df-af0d0d09bf86",
+    "brands": "Coop",
+    "product_name": "Hand finished seeded sourdough bread",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e461df94-3c0a-463a-9434-1fb7bde05036",
+    "brands": "Nescafé",
+    "product_name": "Nescafe classic",
+    "product_quantity": 90,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "03f16698-b98e-4d1c-b37f-983c2e4617d5",
+    "brands": "HP Foods",
+    "manufacturing_places": "the Netherlands",
+    "product_name": "HP Sauce Original imp",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "b2b185e9-33e9-4e0d-affb-36db083fc011",
+    "brands": "Heinz",
+    "manufacturing_places": "England",
+    "product_name": "Cream of tomato soup imp",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d6f3214a-481c-4cf9-8b55-f232575113bc",
+    "brands": "Crosta & Mollica",
+    "product_name": "Classic Torinesi Breadsticks",
+    "product_quantity": 120,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "c1af0e2e-60e8-4d5f-9112-b81e3deb2b0c",
+    "brands": "Harrys",
+    "manufacturing_places": "France",
+    "owner": "org-barilla-france-sa",
+    "product_name": "Harrys pain de mie 100% mie nature sans croute 500g",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ae0109d3-0ee2-4b38-9d77-5e913a98be03",
+    "brands": "Tesco",
+    "product_name": "Wheat Biscuits",
+    "product_quantity": "912",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "22a1671a-86b7-4d0a-ba08-7a62244cb817",
+    "brands": "Tyrrell’s",
+    "manufacturing_places": "EU",
+    "product_name": "Sea salt & cider vinegar chips",
+    "product_quantity": 150,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "98b5d1ba-ce5d-4c6f-be88-88d38c354e5d",
+    "brands": "Danone",
+    "manufacturing_places": "",
+    "product_name": "Activia Céréales",
+    "product_quantity": 110,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ebecb831-c090-4e23-ad63-6d884b65254d",
+    "brands": "Heinz, Fach 3",
+    "manufacturing_places": "",
+    "product_name": "Tomato Ketchup 910g",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "bc4694d4-6e81-4839-8662-92890d1b0490",
+    "brands": "رفيع",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "dd42534e-8df0-48e7-83fd-94a1b3eb9207",
+    "brands": "Lidl,Maribel",
+    "manufacturing_places": "D-27324,Eystrup,Deutschland",
+    "product_name": "Doce Extra Fresa Morango",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "72d8d090-6fcc-4360-bba2-0b5f7bff1a6f",
+    "brands": "St Hubert",
+    "manufacturing_places": "St Hubert - 870 Rue Denis Papin - 54710 Ludres,Meurthe-et-Moselle,Lorraine,France",
+    "owner": "org-saint-hubert",
+    "product_name": "Oméga 3 Doux Tartine & Cuisson",
+    "product_quantity": 510,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1703afc7-d307-4f51-b9f2-20af065c2078",
+    "brands": "Lu",
+    "manufacturing_places": "France",
+    "product_name": "Thé - Biscuits",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "0975d2f2-bf98-4e05-ac0d-0bbabe72a830",
+    "brands": "Kinder",
+    "manufacturing_places": "Poland",
+    "owner": "org-ferrero-france-commerciale",
+    "product_name": "Kinder Bueno White",
+    "product_quantity": 39,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "4ece1053-9050-44e4-957e-1feef9483272",
+    "brands": "co op",
+    "manufacturing_places": "",
+    "product_name": "meat feast pizza",
+    "product_quantity": "380",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "2c761a2f-f9b8-4f64-adb8-79473551c46c",
+    "brands": "Merchant Gourmet",
+    "product_name": "Puy Lentils & French green lentils",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fceb95e8-da61-4740-9e15-55495e6b67cb",
+    "brands": "Cristaline",
+    "manufacturing_places": "F-69730 GENAY",
+    "owner": "org-gie-sources-alma",
+    "product_name": "CRISTALINE Eau De Source Pétillante 1,5L",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "3d2ee3a0-386c-441d-8a55-82fb29d9c060",
+    "brands": "Finn Crisp, LANTMANNEN CEREALIA AS",
+    "manufacturing_places": "Finnland",
+    "product_name": "Finn Crisp",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "05d95498-5a78-4c88-83b2-66da872d616b",
+    "brands": "Délicia",
+    "product_quantity": "830",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "224471fc-18f9-4c90-a7bf-5573a222278f",
+    "product_name": "Sidi Ali Kids"
+  },
+  {
+    "product_id": "ec045178-72f0-4743-a102-732d7ed8690d",
+    "brands": "Anchor",
+    "product_name": "Anchor spreadable",
+    "product_quantity": 400,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fa091380-d53d-402e-9f62-78cd2946069b",
+    "brands": "Yeo Valley",
+    "manufacturing_places": "",
+    "product_name": "Greek Style Yoghurt",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "30e3d5c0-c9a1-482c-ad9f-fad131c9c52f",
+    "brands": "Bimo",
+    "product_name": "Tagger",
+    "product_quantity": 22,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "04545414-0242-4473-b275-61f7220549e8",
+    "brands": "Tesco",
+    "manufacturing_places": "",
+    "product_name": "Malt Wheats",
+    "product_quantity": 750,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "f70f13ad-657b-4fd8-8ea7-f326c6880df8",
+    "brands": "Ciel",
+    "manufacturing_places": "",
+    "product_name": "Ciel 50cl",
+    "product_quantity": 500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "c6fbf857-fdb7-4e34-b6d3-ce573b6c5ccc",
+    "brands": "Old El Paso",
+    "manufacturing_places": "",
+    "product_name": "6 Wraps blé complet",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "da138da8-7d50-46fb-85e5-d2aead4567e3",
+    "brands": "CF&R,Cœur de Lion,Savencia",
+    "manufacturing_places": "France,Normandie",
+    "product_name": "Coulommiers Doux et Crémeux",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8230163c-d194-42d5-9673-716020546306",
+    "brands": "Bio & Me",
+    "manufacturing_places": "",
+    "product_name": "Super Seedy & Nutty Granola",
+    "product_quantity": 360,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ef715605-c775-4cf3-a998-0eb97511ffdd",
+    "brands": "Gerblé",
+    "manufacturing_places": "France",
+    "product_name": "Goûter pépites de chocolat",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "860c5eef-5fd8-41fc-973e-7e5f947e7b7b"
+  },
+  {
+    "product_id": "03eb4900-0fb6-42a3-b18e-94063ed09319",
+    "brands": "Heinz",
+    "product_name": "Heinz [Seriously] Good Mayonnaise",
+    "product_quantity": 540,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "8eddea87-98a1-4a48-8c73-d8dd28fc286e",
+    "brands": "Bjorg",
+    "manufacturing_places": "Allemagne",
+    "product_name": "Muesli avoine chocolat bio",
+    "product_quantity": 375,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "4702ea0f-67bf-46bd-bd2a-5e41c87cffd7",
+    "brands": "Sidi Ali",
+    "product_name": "eau minérale"
+  },
+  {
+    "product_id": "d2553d15-9a46-4d2f-911f-b16e3d89eebc",
+    "brands": "null",
+    "manufacturing_places": "",
+    "product_name": ""
+  },
+  {
+    "product_id": "07b2cae6-1287-4b46-8cb0-96ddeeaf4b94",
+    "brands": "Nestlé, Nestlé Waters, Vittel",
+    "manufacturing_places": "France  Vittel",
+    "owner": "org-nestle-waters",
+    "product_name": "eau minerale",
+    "product_quantity": 1500,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "e2cd635b-3ac6-4a5a-bf35-16b84e5df7f1",
+    "brands": "Alpro",
+    "manufacturing_places": "EU,Belgium",
+    "owner": "org-danone-gmbh",
+    "product_name": "Fermentiertes Sojaprodukt, Ungesüßt",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "e3bddefd-8801-4ddf-9e35-9f2a3e77d36f",
+    "brands": "LU",
+    "manufacturing_places": "Spain",
+    "product_name": "Príncipe crema de chocolate",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "26c7a30a-438f-4711-813f-15dac569fcfa",
+    "brands": "Nestlé, Nesquik",
+    "manufacturing_places": "Pontarlier,Franche-Comté,France",
+    "owner": "org-nestle-france",
+    "product_name": "NESQUIK Cacao",
+    "product_quantity": 1000,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1c46ceaf-2276-4184-9042-170de8ad3fca",
+    "brands": "Savencia, St Moret",
+    "manufacturing_places": "Maine et Loire, France",
+    "product_name": "Le Goût Primeur format familial",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1c8d2bf5-b14c-4c66-9270-4ea89433a0a7",
+    "brands": "Solevita",
+    "manufacturing_places": "Austria",
+    "product_name": "Shot de gingembre bio",
+    "product_quantity": 150,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "f2ac6dda-5dde-488e-a8e6-416168949261",
+    "brands": "LU, Mondelez, Napolitain",
+    "manufacturing_places": "France,Jussy",
+    "product_name": "napolitain",
+    "product_quantity": 180,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "73049964-9947-40ce-8bd6-a6902e293078",
+    "brands": "Warburtons",
+    "manufacturing_places": "United Kingdom",
+    "product_name": "Seeded Batch",
+    "product_quantity": 800,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "4a944132-6708-4c0d-b966-f1d8c020a68a",
+    "brands": "Nestlé,Nesquik",
+    "manufacturing_places": "",
+    "owner": "org-nestle-france",
+    "product_name": "Nesquik",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "446e8406-d1c4-4f61-9bbc-c8dc444a797e",
+    "product_name": "Petits fours financiers",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "35c7eae2-1cd7-404f-92d8-c8be74e36ff2",
+    "brands": "brioche pasquier",
+    "manufacturing_places": "France",
+    "owner": "org-brioches-pasquier",
+    "product_name": "Grilletine au froment sans sucres ajoutés",
+    "product_quantity": 255,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "34e7486e-f8dc-4b1e-b675-5ae59fa5f7bc",
+    "brands": "Tesco",
+    "manufacturing_places": "",
+    "product_name": "Semi-Skimmed 1.8% Fat Milk",
+    "product_quantity": "2272",
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "56ecc3a1-9ed3-4331-a8f0-4f84defc616c",
+    "brands": "PRINGLES",
+    "manufacturing_places": "",
+    "owner": "org-kellogg-s",
+    "product_name": "Pringles Original",
+    "product_quantity": 165,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "58bf0fa4-e6a6-4c9b-8705-783ee7fca689",
+    "brands": "Nakd",
+    "manufacturing_places": "Türkiye",
+    "product_name": "Blueberry Muffin Myrtilles",
+    "product_quantity": 140,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ea093350-a102-47a7-8c0d-d030ac45c35a",
+    "brands": "RIGONI DI ASIAGO BIO",
+    "manufacturing_places": "",
+    "product_name": "Nocciolata - Pâte à tartiner au cacao et noisettes",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "fd9142d4-c9fa-445a-a100-d2b98a62d619",
+    "brands": "Lurpak",
+    "product_name": "Lurpak Lighter",
+    "product_quantity": "400",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "a6ba3873-925e-4c78-b696-f6ee52d667c5",
+    "brands": "bimo",
+    "product_name": "merendina big",
+    "product_quantity": 52,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "5ff1c171-e907-4e15-b44c-b124368b4936",
+    "brands": "Clover",
+    "manufacturing_places": "",
+    "product_name": "63% fat spread with buttermilk",
+    "product_quantity": 500,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "79356e19-45f1-4360-869e-e188605fb659",
+    "brands": "Harrys",
+    "manufacturing_places": "",
+    "owner": "org-barilla-france-sa",
+    "product_name": "Pain de mie american sandwich complet sans sucres ajoutés 600g",
+    "product_quantity": 600,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "508ef01d-e834-4f27-b7fa-47099907378a",
+    "brands": "Nestlé, Chocapic",
+    "manufacturing_places": "França",
+    "owner": "org-nestle-france",
+    "product_name": "NESTLE CHOCAPIC BIO Céréales 375g",
+    "product_quantity": 375,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "197ef5f6-dcbd-4e8c-a279-b316500ae276",
+    "brands": "Fleury Michon",
+    "manufacturing_places": "",
+    "product_name": "Les Tranches Végé Pois chiches",
+    "product_quantity": 120,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ef751d29-3470-4fcc-afa3-78399288af71",
+    "brands": "Cauldron",
+    "manufacturing_places": "United Kingdom,Sweden",
+    "product_name": "Middle Eastern Plant-Based Falafels",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "ec617bcb-5d3a-46c2-a02d-6e016d7ee06c",
+    "brands": "Bramwells",
+    "product_name": "Baked Beans in a Rich Tomato Sauce",
+    "product_quantity": "410",
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "3ccac4f1-2f28-450a-b725-a31d04bbeeb9",
+    "brands": "Kingsmill",
+    "manufacturing_places": "",
+    "product_name": "50/50 Medium Bread",
+    "product_quantity": 800,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "798040f1-5754-4c9e-b0d4-bdacb3d3fc36",
+    "brands": "Coca-Cola",
+    "manufacturing_places": "",
+    "product_name": "Coca-Cola slim 25cl",
+    "product_quantity": 250,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "4665acc8-b6e6-4ed1-bc79-c5bee6cb224c",
+    "brands": "lio",
+    "product_name": "Lio huile de table"
+  },
+  {
+    "product_id": "5b211321-018b-4d24-aaf2-89ee8ac87b60",
+    "brands": "BADOIT",
+    "manufacturing_places": "Source Badoit Bron,42330,Saint Galmier,France",
+    "owner": "org-evian-volvic-suisse-sa",
+    "product_name": "Badoit 1 L PET",
+    "product_quantity": 1000,
+    "product_quantity_unit": "ml"
+  },
+  {
+    "product_id": "d4e93465-dca8-4daf-886b-ab8011034b45",
+    "brands": "Gerblé",
+    "manufacturing_places": "France",
+    "product_name": "Biscuits pavot citron",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "cceafec8-bdf0-4f49-9002-8a8a89228ca3",
+    "brands": "Aicha",
+    "manufacturing_places": "",
+    "product_name": "Double concentre de tomate"
+  },
+  {
+    "product_id": "6c936ace-12c1-4c52-962c-5e415b538469",
+    "brands": "LU",
+    "manufacturing_places": "",
+    "product_name": "Belvita Original Petit-Déjeuner miel et pépites de chocolat",
+    "product_quantity": 440,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1d6cfea3-a3ea-4a41-89ee-5c2e61741f1d",
+    "brands": "Barilla",
+    "manufacturing_places": "Parma",
+    "owner": "org-barilla-france-sa",
+    "product_name": "Pesto alla Genovese",
+    "product_quantity": 190,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "6b35b8ed-04b9-460f-b981-6c1d8c5c2cdd",
+    "brands": "caprice des dieux",
+    "manufacturing_places": "France",
+    "product_name": "Caprice des dieux",
+    "product_quantity": 300,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "9b15cb0d-6a0c-45b0-a128-affd90e3a3ed",
+    "brands": "Jaouda",
+    "manufacturing_places": "Morocco. taroudant",
+    "product_name": "Leben JAOUDA",
+    "product_quantity": 450,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "2e5ed277-437b-4b0f-a72c-f73545474e87",
+    "brands": "Brioche Pasquier, Pasquier",
+    "manufacturing_places": "France",
+    "owner": "org-brioches-pasquier",
+    "product_name": "Grilletines blé complet",
+    "product_quantity": 242,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "32cec440-fd72-4acd-8765-727ee134985d",
+    "brands": "Proper",
+    "manufacturing_places": "",
+    "product_name": "PROPERCHIPS Sea Salt Lentil Chips",
+    "product_quantity": 100,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "d059a525-fe2d-4fd8-a54f-fcf5b5ed6005",
+    "brands": "Hacendado",
+    "manufacturing_places": "",
+    "product_name": "Guacamole",
+    "product_quantity": 200,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "117d1a69-6fcd-4cd7-b756-fa291b0d8cef",
+    "brands": "Bonne Maman",
+    "manufacturing_places": "",
+    "product_name": "Pâte à tartiner noisettes et cacao",
+    "product_quantity": 580,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "1fbe7dcd-7b28-4a5b-afc7-e8a39b36efa2",
+    "brands": "Lactalis, Président",
+    "manufacturing_places": "LF - Bd Arago,ZI Les Touches,53810 Changé,Mayenne,France",
+    "owner": "org-lactalis-fromages",
+    "product_name": "PRESIDENT CAMEMBERT 250g",
+    "product_quantity": 250,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "de3fb62a-ca29-4c5e-b285-0f001d32f813",
+    "brands": "Cathedral City",
+    "manufacturing_places": "",
+    "product_name": "Mature Cheddar",
+    "product_quantity": 350,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "12105ecf-3b24-4493-8b83-86df9744cb9d",
+    "brands": "Warburtons",
+    "manufacturing_places": "",
+    "product_name": "Wholemeal Bread",
+    "product_quantity": 800,
+    "product_quantity_unit": "g"
+  },
+  {
+    "product_id": "53978250-cff0-4293-aa95-8526aa061629",
+    "brands": "Asta,Café",
+    "manufacturing_places": "",
+    "product_name": "Asta",
+    "product_quantity": 45,
+    "product_quantity_unit": "g"
+  }
+]
