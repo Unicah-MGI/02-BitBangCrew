@@ -16,6 +16,10 @@ module.exports = (sequelize, DataTypes) => {
     rating: {
       type: DataTypes.DECIMAL,
       allowNull: true
+    },
+    description: {
+      type: DataTypes.STRING,
+      allowNull: true
     }
   }, {
     tableName: 'supplier',

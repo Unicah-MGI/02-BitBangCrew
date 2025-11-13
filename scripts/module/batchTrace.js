@@ -24,6 +24,9 @@ module.exports = (sequelize, DataTypes) => {
     destination_location: {
       type: DataTypes.STRING
     },
+    supplier_name: {
+      type: DataTypes.STRING
+    },
     supplier_id: {
       type: DataTypes.STRING,
       references: {

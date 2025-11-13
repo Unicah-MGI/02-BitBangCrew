@@ -5,7 +5,23 @@ module.exports = (sequelize, DataTypes) => {
       primaryKey: true,
       allowNull: false
     },
+    brands: {
+      type: DataTypes.STRING,
+      allowNull: true
+    },
+    manufacturing_places: {
+      type: DataTypes.STRING,
+      allowNull: true
+    },
     name: {
+      type: DataTypes.STRING,
+      allowNull: true
+    },
+    qty: {
+      type: DataTypes.STRING,
+      allowNull: true
+    },
+    UoM: {
       type: DataTypes.STRING,
       allowNull: true
     }

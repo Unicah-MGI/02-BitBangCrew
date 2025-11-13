@@ -20,7 +20,7 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.DECIMAL,
       allowNull: false
     },
-    UoM: {
+    Product_name: {
       type: DataTypes.STRING,
       allowNull: true
     }
