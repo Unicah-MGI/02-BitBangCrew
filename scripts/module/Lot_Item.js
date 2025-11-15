@@ -1,5 +1,5 @@
 module.exports = (sequelize, DataTypes) => {
-  const LotItem = sequelize.define('LotItem', {
+  const LotItem = sequelize.define('Lot_Item', {
     lot_id: {
       type: DataTypes.STRING,
       primaryKey: true,
@@ -25,7 +25,7 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: true
     }
   }, {
-    tableName: 'Lot_item',
+    tableName: 'Lot_Item',
     timestamps: false
   });
 
