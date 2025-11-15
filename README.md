@@ -1,6 +1,6 @@
 # Trazabilidad de Productos en la Cadena de Suministro
 
-Este repositorio contiene un proyecto de backend en Node.js y Express, diseñado para gestionar la trazabilidad de productos en la cadena de suministro utilizando Apache Cassandra como base de datos.
+Este repositorio contiene un proyecto de Notebook para gestionar la trazabilidad de productos en la cadena de suministro utilizando Apache Cassandra como base de datos.
 
 El proyecto está configurado para ejecutarse con Docker, simplificando el despliegue en entornos locales o de prueba.
 
@@ -8,7 +8,7 @@ El proyecto está configurado para ejecutarse con Docker, simplificando el despl
 
 ## Tecnologías Utilizadas
 
-- Node.js + Express: Backend para la API REST.
+- Google Colab: Notebook para la inyeccion de datos y generacion de reportes
 - Apache Cassandra: Base de datos NoSQL distribuida para almacenar eventos de trazabilidad.
 - Docker & Docker Compose: Contenedores para levantar la aplicación y la base de datos.
 ---
@@ -32,7 +32,7 @@ docker-compose up --build
 ```
 
 Esto levantará:
-- El backend de Node.js
+- Un notebook para la consulta de datos.
 - La base de datos Cassandra
 
 ---
