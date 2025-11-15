@@ -19,8 +19,8 @@ module.exports = (sequelize, DataTypes) => {
   });
 
   Lot.associate = (models) => {
-    Lot.hasMany(models.LotItem, { foreignKey: 'lot_id', as: 'items' });
-    Lot.hasMany(models.LotTrace, { foreignKey: 'lot_id', as: 'traces' });
+    Lot.hasMany(models.Lot_Item, { foreignKey: 'lot_id', as: 'items' });
+    Lot.hasMany(models.Lot_Trace, { foreignKey: 'lot_id', as: 'traces' });
   };
 
   return Lot;
