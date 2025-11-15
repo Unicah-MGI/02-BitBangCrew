@@ -51,7 +51,6 @@
     "product_id": "76f53234-8057-43aa-a0f2-7ec884b29635",
     "brands": "Cristaline",
     "manufacturing_places": "Saint-Martin de Gurson,France,24610",
-    "owner": "org-gie-sources-alma",
     "product_name": "Eau De Source",
     "product_quantity": 1500,
     "product_quantity_unit": "ml"
@@ -207,7 +206,7 @@
     "product_id": "fc2c6ac2-6dd3-45d9-a442-a179c0e92f1e",
     "brands": "Jaouda",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "Jaouda",
     "product_quantity": 80,
     "product_quantity_unit": "g"
   },
@@ -222,7 +221,7 @@
     "product_id": "473196d2-3e77-4a2a-ba6c-674e24356aba",
     "brands": "lilia",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "lilia",
     "product_quantity": 200,
     "product_quantity_unit": "g"
   },
@@ -262,7 +261,6 @@
     "product_id": "3517bdd2-a6ed-4cbb-8514-36fedecc649d",
     "brands": "Ferrero",
     "manufacturing_places": "France",
-    "owner": "org-ferrero-france-commerciale",
     "product_name": "Nutella",
     "product_quantity": 1000,
     "product_quantity_unit": "g"
@@ -359,7 +357,7 @@
     "product_id": "2b1db41f-e640-4dae-bce4-40aa25c1a11d",
     "brands": "aïn Saiss",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "Saiss",
     "product_quantity": "5000",
     "product_quantity_unit": "ml"
   },
@@ -375,7 +373,6 @@
     "product_id": "3da930f7-423d-458e-a401-447e11e13de7",
     "brands": "Cristaline",
     "manufacturing_places": "France,Italie",
-    "owner": "org-gie-sources-alma",
     "product_name": "CRISTALINE Eau De Source 0.5L",
     "product_quantity": 500,
     "product_quantity_unit": "ml"
@@ -391,7 +388,6 @@
     "product_id": "89b2d38d-c12d-40d5-8017-09b3b59f99b1",
     "brands": "Ferrero",
     "manufacturing_places": "",
-    "owner": "org-ferrero-france-commerciale",
     "product_name": "Nutella",
     "product_quantity": 400,
     "product_quantity_unit": "g"
@@ -507,7 +503,7 @@
     "product_id": "898795ae-2b8d-420b-bf67-8a1cb709b31f",
     "brands": "Maruja",
     "manufacturing_places": "Espagne",
-    "product_name": "",
+    "product_name": "Maruja",
     "product_quantity": 150,
     "product_quantity_unit": "g"
   },
@@ -530,7 +526,7 @@
     "product_id": "1ee2684c-9dcd-47ed-84a9-4f472fdfda9f",
     "brands": "BAHIA",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "BAHIA",
     "product_quantity": "5000",
     "product_quantity_unit": "ml"
   },
@@ -554,7 +550,7 @@
     "product_id": "a3c75e10-c11e-452f-9dc5-6149a51f5c4c",
     "brands": "jibal",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "jibal",
     "product_quantity": 160,
     "product_quantity_unit": "g"
   },
@@ -664,7 +660,6 @@
     "product_id": "467b2cf6-5e7c-462a-9311-aba288b257ea",
     "brands": "wasa",
     "manufacturing_places": "Barilla Sverige AB,682 82,Filipstad,Zweden",
-    "owner": "org-barilla-france-sa",
     "product_name": "Tartine croustillante Authentique",
     "product_quantity": 275,
     "product_quantity_unit": "g"
@@ -721,7 +716,7 @@
     "product_id": "ba863d1d-7c3b-4469-9881-7130e6831c83",
     "brands": "Gervais",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "Gervais",
     "product_quantity": 80,
     "product_quantity_unit": "g"
   },
@@ -816,7 +811,7 @@
     "product_id": "45d0f392-3e18-42a2-be54-240d8a98ab6c",
     "brands": "10dh",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "10dh",
     "product_quantity": 0
   },
   {
@@ -831,7 +826,6 @@
     "product_id": "9037f0fa-e8f6-4104-b25c-1dc13942d3bc",
     "brands": "Jardin Bio, Léa Nature",
     "manufacturing_places": "Pays-Bas",
-    "owner": "org-lea-nature",
     "product_name": "Pur beurre de cacahuète",
     "product_quantity": 350,
     "product_quantity_unit": "g"
@@ -872,7 +866,7 @@
     "product_id": "b1189dbd-4155-44fe-a985-76224d1403e9",
     "brands": "Star",
     "manufacturing_places": "maroc",
-    "product_name": "",
+    "product_name": "Star",
     "product_quantity": 90,
     "product_quantity_unit": "ml"
   },
@@ -880,7 +874,6 @@
     "product_id": "3418f2fa-ea75-4cbe-9091-24e19507a95e",
     "brands": "la Boulangère",
     "manufacturing_places": "85140 Essarts en Bocage",
-    "owner": "org-la-boulangere-co",
     "product_name": "Pain de mie grandes tranches Seigle & Graines 500g",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -941,7 +934,6 @@
     "product_id": "01f65d0c-9f2c-4610-8d92-2cd6d4e2f1a1",
     "brands": "Wasa",
     "manufacturing_places": "Barilla Deutschland GmbH,Wasastrasze 10,29229,Celle,Allemagne",
-    "owner": "org-barilla-france-sa",
     "product_name": "FIBRES",
     "product_quantity": 230,
     "product_quantity_unit": "g"
@@ -958,7 +950,6 @@
     "product_id": "5c32b18a-d5c7-476d-be0e-a3639aeb7151",
     "brands": "Jacquet",
     "manufacturing_places": "France,Auvergne",
-    "owner": "org-jacquet-brossard-distribution",
     "product_name": "14 Maxi Tranches complet sans sucres ajoutés",
     "product_quantity": 550,
     "product_quantity_unit": "g"
@@ -967,7 +958,6 @@
     "product_id": "12e30cda-8b94-49c9-8b2b-4252fc376d7a",
     "brands": "Barilla",
     "manufacturing_places": "Italy",
-    "owner": "org-barilla-france-sa",
     "product_name": "PESTO alla GENOVESE",
     "product_quantity": 190,
     "product_quantity_unit": "g"
@@ -976,7 +966,7 @@
     "product_id": "0628bcbf-4065-4174-9811-6cc9d740a484",
     "brands": "Star",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "Star1",
     "product_quantity": "150",
     "product_quantity_unit": "ml"
   },
@@ -1015,7 +1005,6 @@
     "product_id": "49196e20-a67c-4b33-84fd-ad029eec3fb9",
     "brands": "Quaker",
     "manufacturing_places": "",
-    "owner": "org-pepsico-france",
     "product_name": "cruesly mélange de noix",
     "product_quantity": 450,
     "product_quantity_unit": "g"
@@ -1032,7 +1021,6 @@
     "product_id": "37e26447-5fc4-42d6-81cd-985a82403c4c",
     "brands": "Ferrero, Nutella",
     "manufacturing_places": "",
-    "owner": "org-ferrero-france-commerciale",
     "product_name": "Nutella",
     "product_quantity": 825,
     "product_quantity_unit": "g"
@@ -1086,7 +1074,6 @@
     "product_id": "633fa212-413b-49bc-82f4-61e0bf0040ef",
     "brands": "Nestlé,Nestlé Waters,San Pellegrino",
     "manufacturing_places": "Italia",
-    "owner": "org-nestle-waters",
     "product_name": "S. Pellegrino Water",
     "product_quantity": 1000,
     "product_quantity_unit": "ml"
@@ -1119,7 +1106,6 @@
     "product_id": "b8d0d5de-bd7d-4b8e-8884-eca73aaa3ae3",
     "brands": "Ferrero,Nutella",
     "manufacturing_places": "",
-    "owner": "org-ferrero-france-commerciale",
     "product_name": "nutella",
     "product_quantity": 630,
     "product_quantity_unit": "g"
@@ -1240,7 +1226,6 @@
     "product_id": "fc8fdfba-ac0d-4147-9eef-6632cf18c36e",
     "brands": "Elle & Vire, Savencia",
     "manufacturing_places": "Normandie,France",
-    "owner": "org-elle-vire",
     "product_name": "Le Beurre Tendre Doux",
     "product_quantity": 250,
     "product_quantity_unit": "g"
@@ -1430,7 +1415,7 @@
     "product_id": "c03bc717-8f46-4d59-af09-72039b3bc188",
     "brands": "Coca-Cola",
     "manufacturing_places": "Suisse,France",
-    "product_name": "",
+    "product_name": "Coca-Cola",
     "product_quantity": 1000,
     "product_quantity_unit": "ml"
   },
@@ -1446,7 +1431,6 @@
     "product_id": "def8ed40-6a6a-4dfd-9547-e646bf817698",
     "brands": "La Boulangère,La Boulangère Bio",
     "manufacturing_places": "France",
-    "owner": "org-la-boulangere-co",
     "product_name": "Pain De Mie Bio",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -1469,9 +1453,9 @@
   },
   {
     "product_id": "bb60dbb2-85c2-4826-bc56-f2eb1ce9657d",
-    "brands": "",
+    "brands": "Lipton",
     "manufacturing_places": "",
-    "product_name": ""
+    "product_name": "Ice Tea"
   },
   {
     "product_id": "ad400ae2-debf-4d7e-b667-cd57a10d6745",
@@ -1522,7 +1506,6 @@
     "product_id": "7f6b4189-6656-4e83-a046-c5c55052ab0f",
     "brands": "Nestlé",
     "manufacturing_places": "",
-    "owner": "org-nestle-france",
     "product_name": "Nestlé Dessert",
     "product_quantity": 205,
     "product_quantity_unit": "g"
@@ -1603,7 +1586,6 @@
     "product_id": "0398f99e-39ac-48cb-b4c5-c2fd87ff9bc8",
     "brands": "Nestlé, Ricore",
     "manufacturing_places": "France,Pontarlier,Villars",
-    "owner": "org-nestle-france",
     "product_name": "RICORE Original",
     "product_quantity": 100,
     "product_quantity_unit": "g"
@@ -1642,7 +1624,6 @@
     "product_id": "0899fba9-35f8-446a-9ff5-4851313a4ce6",
     "brands": "La Boulangère",
     "manufacturing_places": "France",
-    "owner": "org-la-boulangere-co",
     "product_name": "Brioche Tranchée Bio 400g",
     "product_quantity": 400,
     "product_quantity_unit": "g"
@@ -1658,7 +1639,6 @@
     "product_id": "6acafbe1-6c4c-4dd7-ae52-866790cb5134",
     "brands": "Barilla",
     "manufacturing_places": "Italie,Italien",
-    "owner": "org-barilla-france-sa",
     "product_name": "Pesto Rosso",
     "product_quantity": 200,
     "product_quantity_unit": "g"
@@ -1703,7 +1683,6 @@
     "product_id": "518bce14-744d-4412-abae-af59d161e1d0",
     "brands": "Ethiquable",
     "manufacturing_places": "France",
-    "owner": "org-ethiquable",
     "product_name": "Beurre bio cacahuète",
     "product_quantity": 350,
     "product_quantity_unit": "g"
@@ -1821,7 +1800,6 @@
     "product_id": "ba75e96c-92e9-463f-82ed-d9584678cbbe",
     "brands": "Nestlé, Maggi",
     "manufacturing_places": "",
-    "owner": "org-nestle-france",
     "product_name": "Arome MAGGI",
     "product_quantity": 200,
     "product_quantity_unit": "ml"
@@ -1867,7 +1845,6 @@
     "product_id": "dc3c4700-ceb0-4afe-b4e2-f89fe8f488cf",
     "brands": "Menguy's",
     "manufacturing_places": "France",
-    "owner": "org-menguy-s",
     "product_name": "Menguy's Peanut 100%",
     "product_quantity": 454,
     "product_quantity_unit": "g"
@@ -1903,7 +1880,6 @@
     "product_id": "98a0f6eb-f512-4b48-95ff-308971b9a0be",
     "brands": "st hubert",
     "manufacturing_places": "France",
-    "owner": "org-saint-hubert",
     "product_name": "st hubert bio & végétal",
     "product_quantity": 230,
     "product_quantity_unit": "g"
@@ -1926,7 +1902,6 @@
     "product_id": "39ee29b1-914d-4ef2-bf2c-4b8c9106f971",
     "brands": "La boulangere",
     "manufacturing_places": "France",
-    "owner": "org-la-boulangere-co",
     "product_name": "Tartines campagne 450g",
     "product_quantity": 450,
     "product_quantity_unit": "g"
@@ -1949,7 +1924,7 @@
     "product_id": "1e99786c-1afe-40f5-b510-0df0ac564b1d",
     "brands": "VIP",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "VIP",
     "product_quantity": 100,
     "product_quantity_unit": "g"
   },
@@ -2132,21 +2107,20 @@
     "product_id": "ee729f54-f69c-4a8e-9a28-1be64b055583",
     "brands": "DANONE",
     "manufacturing_places": "El Jadida Morocco",
-    "product_name": "",
+    "product_name": "DANONE",
     "product_quantity": 0
   },
   {
     "product_id": "8c458ca3-2d65-4da2-8272-fd405d02f7da",
     "brands": "Jibal",
     "manufacturing_places": "lait",
-    "product_name": "",
+    "product_name": "Jibal",
     "product_quantity": 1000,
     "product_quantity_unit": "ml"
   },
   {
     "product_id": "2ec303b0-8709-440e-8c65-fb6100750412",
     "brands": "Maille",
-    "owner": "org-unilever-france-gms",
     "product_name": "Maille Moutarde Fine de Dijon L'Originale Bocal 360g",
     "product_quantity": 360,
     "product_quantity_unit": "g"
@@ -2155,7 +2129,6 @@
     "product_id": "1fb9ed67-d5bf-47e5-a062-e99761222810",
     "brands": "Barilla,Wasa",
     "manufacturing_places": "Allemagne",
-    "owner": "org-barilla-france-sa",
     "product_name": "wasa",
     "product_quantity": 270,
     "product_quantity_unit": "g"
@@ -2188,7 +2161,6 @@
     "product_id": "0e22fbe7-f767-4699-9075-c5119c983ecc",
     "brands": "Nestlé",
     "manufacturing_places": "France",
-    "owner": "org-nestle-france",
     "product_name": "Ricoré original",
     "product_quantity": 260,
     "product_quantity_unit": "g"
@@ -2205,7 +2177,6 @@
     "product_id": "249d3078-1458-43e7-ae32-a9dfbc4fb36b",
     "brands": "Menguy's",
     "manufacturing_places": "France",
-    "owner": "org-menguy-s",
     "product_name": "Menguy's Beurre de cacahuètes creamy",
     "product_quantity": 454,
     "product_quantity_unit": "g"
@@ -2222,7 +2193,6 @@
     "product_id": "d023745e-eb02-4721-924f-f0d2a2b1b3a2",
     "brands": "Harry's",
     "manufacturing_places": "France",
-    "owner": "org-barilla-france-sa",
     "product_name": "100% mie complet 500g",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -2303,7 +2273,6 @@
     "product_id": "33db79ee-9249-45b1-8ef8-a02b3c85b284",
     "brands": "Harrys",
     "manufacturing_places": "",
-    "owner": "org-barilla-france-sa",
     "product_name": "Harrys brioche tressee nature au sucre perle sans additifs 500g",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -2327,7 +2296,6 @@
     "product_id": "cd7fa2de-218b-4e03-b793-ddb536198552",
     "brands": "Le Fromage Fouetté Madame Loïk, Paysan breton",
     "manufacturing_places": "Créhen,Côtes d'Armor,France,22134 CREHEN,22130 CREHEN",
-    "owner": "org-laita",
     "product_name": "Paysan Breton - Le Fromage Fouetté Madame Loïk - Nature au Sel de Guérande",
     "product_quantity": 180,
     "product_quantity_unit": "g"
@@ -2406,7 +2374,7 @@
     "product_id": "f2484ac5-aba6-45d3-85de-942b03a21e29",
     "brands": "Storck",
     "manufacturing_places": "Nemčija,Berlin,Deutschland",
-    "product_name": "",
+    "product_name": "Storck",
     "product_quantity": 125,
     "product_quantity_unit": "g"
   },
@@ -2414,7 +2382,6 @@
     "product_id": "07106e54-a459-40bd-9191-10d979bac533",
     "brands": "Alpro",
     "manufacturing_places": "",
-    "owner": "org-danone-gmbh",
     "product_name": "Natur mit Kokosnuss",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -2423,7 +2390,7 @@
     "product_id": "d591a681-fe3d-4a88-92e0-0234a7287e4e",
     "brands": "حلال",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "حلال",
     "product_quantity": 0
   },
   {
@@ -2537,15 +2504,14 @@
   },
   {
     "product_id": "9bae7a14-f41e-49d1-a3c5-cc96b4ac0bb2",
-    "brands": "",
+    "brands": "Johnie Walker",
     "manufacturing_places": "",
-    "product_name": ""
+    "product_name": "Red Label"
   },
   {
     "product_id": "e3fd5176-1d75-44d9-b140-e9101b172187",
     "brands": "Kellogg's",
     "manufacturing_places": "Espagne",
-    "owner": "org-kellogg-s",
     "product_name": "Corn Flakes",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -2562,7 +2528,6 @@
     "product_id": "a3e964c0-58e4-4c1f-a2a2-c80d7f6d017b",
     "brands": "St Hubert, St hubert omega 3",
     "manufacturing_places": "Ludres,54710,Lorraine,France",
-    "owner": "org-saint-hubert",
     "product_name": "Oméga 3® Doux",
     "product_quantity": 250,
     "product_quantity_unit": "g"
@@ -2595,7 +2560,6 @@
     "product_id": "da9ad351-3de4-4a57-ac39-618f5d745085",
     "brands": "Harrys",
     "manufacturing_places": "France",
-    "owner": "org-barilla",
     "product_name": "Brioche moins de sucre",
     "product_quantity": 485,
     "product_quantity_unit": "g"
@@ -2636,7 +2600,6 @@
     "product_id": "8696cf79-6e5b-4660-8401-1e6e256397c3",
     "brands": "Poulain",
     "manufacturing_places": "",
-    "owner": "org-carambar-co",
     "product_name": "Pâte à tartiner",
     "product_quantity": 400,
     "product_quantity_unit": "g"
@@ -2660,7 +2623,6 @@
     "product_id": "ff732e59-4cc5-4425-a86b-f67400a8947d",
     "brands": "La Boulangère",
     "manufacturing_places": "France",
-    "owner": "org-la-boulangere-co",
     "product_name": "Pain de mie Bio grandes tranches céréales & graines 500g",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -2680,7 +2642,6 @@
     "product_id": "033c5bb3-a6be-4793-a12c-cde84da8fcff",
     "brands": "Ferrero",
     "manufacturing_places": "",
-    "owner": "org-ferrero-france-commerciale",
     "product_name": "Pâte à tartiner Nutella noisettes et cacao - 750g",
     "product_quantity": 750,
     "product_quantity_unit": "g"
@@ -2697,7 +2658,6 @@
     "product_id": "35c5a71a-a251-44a5-a65f-a898e4ba3ac1",
     "brands": "Alvalle",
     "manufacturing_places": "Espagne",
-    "owner": "org-pepsico-france",
     "product_name": "Alvalle Gazpacho l'original",
     "product_quantity": 1000,
     "product_quantity_unit": "ml"
@@ -2714,7 +2674,6 @@
     "product_id": "aab62258-dd31-4801-a896-373a0830dfa3",
     "brands": "Amora",
     "manufacturing_places": "Dijon",
-    "owner": "org-unilever-france-gms",
     "product_name": "Amora Moutarde Forte Bocal 430g",
     "product_quantity": 430,
     "product_quantity_unit": "g"
@@ -2760,7 +2719,6 @@
     "product_id": "dd48749f-108a-4233-8040-20725384b175",
     "brands": "Pringles",
     "manufacturing_places": "",
-    "owner": "org-kellogg-s",
     "product_name": "Pringles",
     "product_quantity": 40,
     "product_quantity_unit": "g"
@@ -2829,7 +2787,6 @@
     "product_id": "ee7e9e39-92e3-4821-8d1a-a90800f6ba0c",
     "brands": "Nestlé, Nesquik",
     "manufacturing_places": "France",
-    "owner": "org-nestle-france",
     "product_name": "NESQUIK Moins de Sucres",
     "product_quantity": "350",
     "product_quantity_unit": "g"
@@ -2844,7 +2801,6 @@
     "product_id": "33eccec8-f45e-4bc2-9951-ce0900af1dad",
     "brands": "Cassegrain",
     "manufacturing_places": "France",
-    "owner": "org-bonduelle-europe-long-life",
     "product_name": "Ratatouille Cuisinée à la Provençal",
     "product_quantity": 380,
     "product_quantity_unit": "g"
@@ -2883,7 +2839,6 @@
     "product_id": "889e2311-162f-42d1-bb3e-0b894a4db26c",
     "brands": "Quaker",
     "manufacturing_places": "",
-    "owner": "org-pepsico-france",
     "product_name": "Flocons d'avoine complète",
     "product_quantity": 550,
     "product_quantity_unit": "g"
@@ -2908,7 +2863,7 @@
     "product_id": "e266791f-8957-45cc-a7ce-8eebd08d7a09",
     "brands": "Alesto",
     "manufacturing_places": "Strasbourg,France",
-    "product_name": "",
+    "product_name": "Alesto",
     "product_quantity": "200",
     "product_quantity_unit": "g"
   },
@@ -2916,7 +2871,6 @@
     "product_id": "f3e2ca6d-83c2-45de-95ee-0eb0c174e358",
     "brands": "Leroux",
     "manufacturing_places": "84 rue François Herbo,59310 ORCHIES,FRANCE",
-    "owner": "org-leroux",
     "product_name": "Chicorée soluble nature",
     "product_quantity": 200,
     "product_quantity_unit": "g"
@@ -2961,7 +2915,6 @@
     "product_id": "a7022cc5-cf14-4f09-a887-d2cb0793f83b",
     "brands": "Nestlé, Ricoré",
     "manufacturing_places": "Nestlé France (MNF) - Zone Louis Delaporte - 76370 Rouxmesnil-Bouteilles,Seine-Maritime,Haute-Normandie,France",
-    "owner": "org-nestle-france",
     "product_name": "Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",
     "product_quantity": 260,
     "product_quantity_unit": "g"
@@ -3025,7 +2978,7 @@
     "product_id": "c9cab304-0819-4e8d-8be2-1dec64f6e2b1",
     "brands": "COPAG",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "COPAG",
     "product_quantity": 90,
     "product_quantity_unit": "g"
   },
@@ -3033,7 +2986,6 @@
     "product_id": "5e5064ec-f9f7-412f-9df6-45907cb5ac80",
     "brands": "Nestlé, Le chocolat",
     "manufacturing_places": "France",
-    "owner": "org-nestle-france",
     "product_name": "Le Choco",
     "product_quantity": "500",
     "product_quantity_unit": "g"
@@ -3042,7 +2994,7 @@
     "product_id": "27922738-2a47-4c77-acf4-2b54a7e8c0b8",
     "brands": "Danone",
     "manufacturing_places": "",
-    "product_name": "",
+    "product_name": "Danone",
     "product_quantity": 80,
     "product_quantity_unit": "g"
   },
@@ -3058,7 +3010,6 @@
     "product_id": "bbacb4ee-f6c4-4b9b-87bb-3c3d14011a35",
     "brands": "Maïzena, Unilever",
     "manufacturing_places": "",
-    "owner": "org-unilever-france-gms",
     "product_name": "Maizena Fleur de Maïs Sans Gluten 400g",
     "product_quantity": 400,
     "product_quantity_unit": "g"
@@ -3120,7 +3071,6 @@
     "product_id": "9d3a7462-eeb7-4a2d-b651-84a5b5dbeadf",
     "brands": "la boulangère",
     "manufacturing_places": "Vendée,Pays de la Loire,France",
-    "owner": "org-la-boulangere-co",
     "product_name": "Pain de mie grandes tranches Toastiligne complet",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -3168,7 +3118,6 @@
     "product_id": "d4ca001a-311c-41e4-b403-0ed997062b8e",
     "brands": "nakd",
     "manufacturing_places": "",
-    "owner": "org-lotus-bakeries",
     "product_name": "Barres de fruits secs & noix Myrtilles",
     "product_quantity": "140",
     "product_quantity_unit": "g"
@@ -3184,7 +3133,6 @@
   {
     "product_id": "32d050a8-201a-4e16-8852-6eae8f31129a",
     "brands": "Nakd",
-    "owner": "org-lotus-bakeries",
     "product_name": "Protein Cocoa Hazelnut Bars",
     "product_quantity": "135",
     "product_quantity_unit": "g"
@@ -3223,7 +3171,6 @@
     "product_id": "a24a1ce3-1c19-4eb4-832d-18e5a6b0d4ad",
     "brands": "Materne, POM'POTES, Sans sucres ajoutés",
     "manufacturing_places": "France,Aisne",
-    "owner": "org-materne",
     "product_name": "POM'POTES Compotes Gourdes Pomme Nature 1x90g",
     "product_quantity": 90,
     "product_quantity_unit": "g"
@@ -3293,7 +3240,6 @@
     "product_id": "c1af0e2e-60e8-4d5f-9112-b81e3deb2b0c",
     "brands": "Harrys",
     "manufacturing_places": "France",
-    "owner": "org-barilla-france-sa",
     "product_name": "Harrys pain de mie 100% mie nature sans croute 500g",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -3347,7 +3293,6 @@
     "product_id": "72d8d090-6fcc-4360-bba2-0b5f7bff1a6f",
     "brands": "St Hubert",
     "manufacturing_places": "St Hubert - 870 Rue Denis Papin - 54710 Ludres,Meurthe-et-Moselle,Lorraine,France",
-    "owner": "org-saint-hubert",
     "product_name": "Oméga 3 Doux Tartine & Cuisson",
     "product_quantity": 510,
     "product_quantity_unit": "g"
@@ -3364,7 +3309,6 @@
     "product_id": "0975d2f2-bf98-4e05-ac0d-0bbabe72a830",
     "brands": "Kinder",
     "manufacturing_places": "Poland",
-    "owner": "org-ferrero-france-commerciale",
     "product_name": "Kinder Bueno White",
     "product_quantity": 39,
     "product_quantity_unit": "g"
@@ -3388,7 +3332,6 @@
     "product_id": "fceb95e8-da61-4740-9e15-55495e6b67cb",
     "brands": "Cristaline",
     "manufacturing_places": "F-69730 GENAY",
-    "owner": "org-gie-sources-alma",
     "product_name": "CRISTALINE Eau De Source Pétillante 1,5L",
     "product_quantity": 1500,
     "product_quantity_unit": "ml"
@@ -3506,15 +3449,14 @@
   },
   {
     "product_id": "d2553d15-9a46-4d2f-911f-b16e3d89eebc",
-    "brands": "null",
+    "brands": "Kraft",
     "manufacturing_places": "",
-    "product_name": ""
+    "product_name": "Mac&Cheese"
   },
   {
     "product_id": "07b2cae6-1287-4b46-8cb0-96ddeeaf4b94",
     "brands": "Nestlé, Nestlé Waters, Vittel",
     "manufacturing_places": "France  Vittel",
-    "owner": "org-nestle-waters",
     "product_name": "eau minerale",
     "product_quantity": 1500,
     "product_quantity_unit": "ml"
@@ -3523,7 +3465,6 @@
     "product_id": "e2cd635b-3ac6-4a5a-bf35-16b84e5df7f1",
     "brands": "Alpro",
     "manufacturing_places": "EU,Belgium",
-    "owner": "org-danone-gmbh",
     "product_name": "Fermentiertes Sojaprodukt, Ungesüßt",
     "product_quantity": 500,
     "product_quantity_unit": "g"
@@ -3540,7 +3481,6 @@
     "product_id": "26c7a30a-438f-4711-813f-15dac569fcfa",
     "brands": "Nestlé, Nesquik",
     "manufacturing_places": "Pontarlier,Franche-Comté,France",
-    "owner": "org-nestle-france",
     "product_name": "NESQUIK Cacao",
     "product_quantity": 1000,
     "product_quantity_unit": "g"
@@ -3581,7 +3521,6 @@
     "product_id": "4a944132-6708-4c0d-b966-f1d8c020a68a",
     "brands": "Nestlé,Nesquik",
     "manufacturing_places": "",
-    "owner": "org-nestle-france",
     "product_name": "Nesquik",
     "product_quantity": 300,
     "product_quantity_unit": "g"
@@ -3596,7 +3535,6 @@
     "product_id": "35c7eae2-1cd7-404f-92d8-c8be74e36ff2",
     "brands": "brioche pasquier",
     "manufacturing_places": "France",
-    "owner": "org-brioches-pasquier",
     "product_name": "Grilletine au froment sans sucres ajoutés",
     "product_quantity": 255,
     "product_quantity_unit": "g"
@@ -3613,7 +3551,6 @@
     "product_id": "56ecc3a1-9ed3-4331-a8f0-4f84defc616c",
     "brands": "PRINGLES",
     "manufacturing_places": "",
-    "owner": "org-kellogg-s",
     "product_name": "Pringles Original",
     "product_quantity": 165,
     "product_quantity_unit": "g"
@@ -3660,7 +3597,6 @@
     "product_id": "79356e19-45f1-4360-869e-e188605fb659",
     "brands": "Harrys",
     "manufacturing_places": "",
-    "owner": "org-barilla-france-sa",
     "product_name": "Pain de mie american sandwich complet sans sucres ajoutés 600g",
     "product_quantity": 600,
     "product_quantity_unit": "g"
@@ -3669,7 +3605,6 @@
     "product_id": "508ef01d-e834-4f27-b7fa-47099907378a",
     "brands": "Nestlé, Chocapic",
     "manufacturing_places": "França",
-    "owner": "org-nestle-france",
     "product_name": "NESTLE CHOCAPIC BIO Céréales 375g",
     "product_quantity": 375,
     "product_quantity_unit": "g"
@@ -3722,7 +3657,6 @@
     "product_id": "5b211321-018b-4d24-aaf2-89ee8ac87b60",
     "brands": "BADOIT",
     "manufacturing_places": "Source Badoit Bron,42330,Saint Galmier,France",
-    "owner": "org-evian-volvic-suisse-sa",
     "product_name": "Badoit 1 L PET",
     "product_quantity": 1000,
     "product_quantity_unit": "ml"
@@ -3753,7 +3687,6 @@
     "product_id": "1d6cfea3-a3ea-4a41-89ee-5c2e61741f1d",
     "brands": "Barilla",
     "manufacturing_places": "Parma",
-    "owner": "org-barilla-france-sa",
     "product_name": "Pesto alla Genovese",
     "product_quantity": 190,
     "product_quantity_unit": "g"
@@ -3778,7 +3711,6 @@
     "product_id": "2e5ed277-437b-4b0f-a72c-f73545474e87",
     "brands": "Brioche Pasquier, Pasquier",
     "manufacturing_places": "France",
-    "owner": "org-brioches-pasquier",
     "product_name": "Grilletines blé complet",
     "product_quantity": 242,
     "product_quantity_unit": "g"
@@ -3811,7 +3743,6 @@
     "product_id": "1fbe7dcd-7b28-4a5b-afc7-e8a39b36efa2",
     "brands": "Lactalis, Président",
     "manufacturing_places": "LF - Bd Arago,ZI Les Touches,53810 Changé,Mayenne,France",
-    "owner": "org-lactalis-fromages",
     "product_name": "PRESIDENT CAMEMBERT 250g",
     "product_quantity": 250,
     "product_quantity_unit": "g"
