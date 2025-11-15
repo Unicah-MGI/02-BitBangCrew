@@ -113,14 +113,11 @@ El frontend aún está por definir; actualmente el proyecto solo incluye el back
 ## Estructura del Proyecto
 
 ```
-/src
-  /controllers
-  /models
-  /routes
-  /seeders
-  /config
+/init
+/documentacion
+/imagenes
+/scripts
 docker-compose.yml
-package.json
 README.md
 ```
 
