@@ -1,10 +1,10 @@
 module.exports = (sequelize, DataTypes) => {
-  const BatchItem = sequelize.define('BatchItem', {
+  const LotItem = sequelize.define('LotItem', {
     lot_id: {
       type: DataTypes.STRING,
       primaryKey: true,
       references: {
-        model: 'batch',
+        model: 'Lot',
         key: 'lot_id'
       }
     },
@@ -25,14 +25,14 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: true
     }
   }, {
-    tableName: 'batch_item',
+    tableName: 'Lot_item',
     timestamps: false
   });
 
-  BatchItem.associate = (models) => {
-    BatchItem.belongsTo(models.Batch, { foreignKey: 'lot_id', as: 'batch' });
-    BatchItem.belongsTo(models.Product, { foreignKey: 'product_id', as: 'product' });
+  LotItem.associate = (models) => {
+    LotItem.belongsTo(models.Lot, { foreignKey: 'lot_id', as: 'Lot' });
+    LotItem.belongsTo(models.Product, { foreignKey: 'product_id', as: 'product' });
   };
 
-  return BatchItem;
+  return LotItem;
 };

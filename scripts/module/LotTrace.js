@@ -1,5 +1,5 @@
 module.exports = (sequelize, DataTypes) => {
-  const BatchTrace = sequelize.define('BatchTrace', {
+  const LotTrace = sequelize.define('LotTrace', {
     event_id: {
       type: DataTypes.INTEGER,
       primaryKey: true,
@@ -8,7 +8,7 @@ module.exports = (sequelize, DataTypes) => {
     lot_id: {
       type: DataTypes.STRING,
       references: {
-        model: 'batch',
+        model: 'Lot',
         key: 'lot_id'
       }
     },
@@ -48,15 +48,15 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.DECIMAL
     }
   }, {
-    tableName: 'batch_trace',
+    tableName: 'Lot_trace',
     timestamps: false
   });
 
-  BatchTrace.associate = (models) => {
-    BatchTrace.belongsTo(models.Batch, { foreignKey: 'lot_id', as: 'batch' });
-    BatchTrace.belongsTo(models.Supplier, { foreignKey: 'supplier_id', as: 'supplier' });
-    BatchTrace.belongsTo(models.Transport, { foreignKey: 'transport_id', as: 'transport' });
+  LotTrace.associate = (models) => {
+    LotTrace.belongsTo(models.Lot, { foreignKey: 'lot_id', as: 'Lot' });
+    LotTrace.belongsTo(models.Supplier, { foreignKey: 'supplier_id', as: 'supplier' });
+    LotTrace.belongsTo(models.Transport, { foreignKey: 'transport_id', as: 'transport' });
   };
 
-  return BatchTrace;
+  return LotTrace;
 };

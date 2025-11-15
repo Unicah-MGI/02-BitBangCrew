@@ -1,7 +1,7 @@
 module.exports = (sequelize, DataTypes) => {
   const Product = sequelize.define('Product', {
     product_id: {
-      type: DataTypes.STRING,
+      type: DataTypes.UUID,
       primaryKey: true,
       allowNull: false
     },
@@ -13,15 +13,15 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       allowNull: true
     },
-    name: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: true
     },
-    qty: {
-      type: DataTypes.STRING,
+    product_quantity: {
+      type: DataTypes.DOUBLE,
       allowNull: true
     },
-    UoM: {
+    product_quantity_unit: {
       type: DataTypes.STRING,
       allowNull: true
     }
@@ -31,7 +31,7 @@ module.exports = (sequelize, DataTypes) => {
   });
 
   Product.associate = (models) => {
-    Product.hasMany(models.BatchItem, { foreignKey: 'product_id', as: 'batchItems' });
+    Product.hasMany(models.LotItem, { foreignKey: 'product_id', as: 'LotItems' });
   };
 
   return Product;

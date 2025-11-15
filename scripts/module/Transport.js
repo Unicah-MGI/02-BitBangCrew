@@ -31,7 +31,7 @@ module.exports = (sequelize, DataTypes) => {
 
   Transport.associate = (models) => {
     Transport.belongsTo(models.Supplier, { foreignKey: 'supplier_id', as: 'supplier' });
-    Transport.hasMany(models.BatchTrace, { foreignKey: 'transport_id', as: 'batchTraces' });
+    Transport.hasMany(models.LotTrace, { foreignKey: 'transport_id', as: 'LotTraces' });
   };
 
   return Transport;

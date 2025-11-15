@@ -1,5 +1,5 @@
 module.exports = (sequelize, DataTypes) => {
-  const Batch = sequelize.define('Batch', {
+  const Lot = sequelize.define('Lot', {
     lot_id: {
       type: DataTypes.STRING,
       primaryKey: true,
@@ -14,14 +14,14 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: true
     }
   }, {
-    tableName: 'batch',
+    tableName: 'Lot',
     timestamps: false
   });
 
-  Batch.associate = (models) => {
-    Batch.hasMany(models.BatchItem, { foreignKey: 'lot_id', as: 'items' });
-    Batch.hasMany(models.BatchTrace, { foreignKey: 'lot_id', as: 'traces' });
+  Lot.associate = (models) => {
+    Lot.hasMany(models.LotItem, { foreignKey: 'lot_id', as: 'items' });
+    Lot.hasMany(models.LotTrace, { foreignKey: 'lot_id', as: 'traces' });
   };
 
-  return Batch;
+  return Lot;
 };
